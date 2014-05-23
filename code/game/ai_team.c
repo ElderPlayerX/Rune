@@ -32,7 +32,7 @@
 #include "match.h"
 
 // for the voice chats
-#include "../../ui/menudef.h"
+#include "../ui/menudef.h"
 
 //ctf task preferences for a client
 typedef struct bot_ctftaskpreference_s
