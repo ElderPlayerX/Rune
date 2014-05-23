@@ -1,0 +1,3438 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\Q3DM1\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\Q3DM1\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\Stroggs\g_blueteam\Pagans\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:08 ShutdownGame:
+  0:08 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\Q3DM1\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\Q3DM1\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\Q3DM1\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 item_armor_shard
+  0:03 Item: 0 item_armor_shard
+  0:03 Item: 0 item_armor_shard
+  0:05 Item: 0 weapon_rocketlauncher
+  0:12 Item: 0 item_health
+  0:12 Item: 0 item_health
+  0:13 Item: 0 item_armor_shard
+  0:13 Item: 0 item_armor_shard
+  0:14 Item: 0 item_armor_shard
+  0:18 Item: 0 weapon_rocketlauncher
+  0:22 ShutdownGame:
+  0:22 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\Q3DM1\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:06 ShutdownGame:
+  0:06 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 weapon_rocketlauncher
+  0:03 Item: 0 ammo_rockets
+  0:09 ClientConnect: 1
+  0:09 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0
+  0:09 ClientBegin: 1
+  0:11 Item: 0 item_armor_body
+  0:12 Item: 1 weapon_rocketlauncher
+  0:16 Item: 0 weapon_railgun
+  0:21 Item: 1 ammo_rockets
+  0:24 Item: 0 item_armor_shard
+  0:24 Item: 0 item_armor_shard
+  0:24 Item: 0 item_armor_shard
+  0:24 Item: 0 item_armor_combat
+  0:27 Item: 1 item_health_large
+  0:32 Item: 1 item_health_large
+  0:35 Item: 0 item_armor_shard
+  0:36 Item: 0 item_armor_shard
+  0:36 Item: 0 item_armor_shard
+  0:39 Item: 1 ammo_slugs
+  0:42 Item: 1 weapon_railgun
+  0:43 Item: 0 item_health_mega
+  0:46 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  0:49 Item: 0 weapon_rocketlauncher
+  0:52 Item: 1 weapon_railgun
+  0:55 Item: 0 item_health_large
+  0:56 Item: 1 weapon_rocketlauncher
+  0:57 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  0:59 say: Ranger: That was bellisimo, baby!
+  1:00 Item: 1 ammo_rockets
+  1:02 Item: 0 item_armor_body
+  1:02 Item: 1 weapon_rocketlauncher
+  1:11 Item: 0 weapon_railgun
+  1:11 Item: 0 weapon_rocketlauncher
+  1:12 Item: 0 ammo_rockets
+  1:25 Item: 1 item_armor_shard
+  1:26 Item: 1 item_armor_shard
+  1:26 Item: 1 item_armor_shard
+  1:26 Item: 1 item_armor_combat
+  1:27 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  1:29 say: Ranger: They don't come much better than that.
+  1:32 Item: 1 weapon_rocketlauncher
+  1:34 Item: 1 item_armor_body
+  1:39 Item: 1 weapon_railgun
+  1:39 Item: 0 weapon_rocketlauncher
+  1:47 Item: 0 item_health_large
+  1:51 Item: 1 item_health_large
+  1:55 Item: 1 ammo_slugs
+  1:56 Item: 1 ammo_slugs
+  1:57 Kill: 1022 0 19: <world> killed KnyteHawkk by MOD_FALLING
+  2:00 Item: 1 item_health_large
+  2:03 Item: 0 weapon_rocketlauncher
+  2:03 Item: 0 ammo_rockets
+  2:11 Item: 0 item_armor_shard
+  2:11 Item: 0 item_armor_shard
+  2:11 Item: 0 item_armor_shard
+  2:12 Item: 0 item_armor_combat
+  2:12 Item: 0 weapon_railgun
+  2:15 Item: 0 item_health_large
+  2:18 Item: 0 item_armor_body
+  2:19 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  2:22 Item: 0 ammo_rockets
+  2:22 Item: 0 weapon_rocketlauncher
+  2:24 Item: 1 weapon_railgun
+  2:27 ShutdownGame:
+  2:27 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:07 Item: 0 weapon_rocketlauncher
+  0:07 Item: 0 ammo_rockets
+  0:11 Item: 0 Rune 1
+  0:26 Item: 0 ammo_bullets
+  0:26 Item: 0 Rune 1
+  0:30 ShutdownGame:
+  0:30 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:05 Item: 0 weapon_rocketlauncher
+  0:05 Item: 0 ammo_rockets
+  0:10 ShutdownGame:
+  0:10 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 weapon_rocketlauncher
+  0:04 Item: 0 ammo_rockets
+  0:08 Item: 0 Rune 1
+  0:12 Item: 0 item_armor_shard
+  0:13 Item: 0 item_armor_shard
+  0:13 Item: 0 item_armor_shard
+  0:13 Item: 0 item_armor_combat
+  0:16 Item: 0 ammo_bullets
+  0:16 Item: 0 Rune 1
+  0:22 Item: 0 Rune 3
+  0:22 Item: 0 Rune 3
+  0:26 Item: 0 Rune 1
+  0:39 Item: 0 Rune 2
+  0:39 Item: 0 Rune 2
+  0:48 Item: 0 item_health_large
+  0:50 ShutdownGame:
+  0:50 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 weapon_rocketlauncher
+  0:03 Item: 0 ammo_rockets
+  0:05 Item: 0 Rune 1
+  0:26 Item: 0 weapon_rocketlauncher
+  0:30 Item: 0 item_armor_shard
+  0:30 Item: 0 item_armor_shard
+  0:30 Item: 0 item_armor_shard
+  0:30 Item: 0 item_armor_combat
+  0:36 Item: 0 Rune 4
+  0:37 Item: 0 ammo_rockets
+  0:37 Item: 0 weapon_rocketlauncher
+  0:41 ShutdownGame:
+  0:41 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:06 Item: 0 weapon_rocketlauncher
+  0:07 Item: 0 ammo_rockets
+  0:13 ShutdownGame:
+  0:13 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 weapon_rocketlauncher
+  0:04 Item: 0 ammo_rockets
+  0:08 Item: 0 Rune 1
+  0:10 Item: 0 weapon_rocketlauncher
+  0:14 ClientConnect: 1
+  0:14 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  0:14 ClientBegin: 1
+  0:17 Item: 1 weapon_rocketlauncher
+  0:18 Item: 0 item_armor_body
+  0:19 Item: 1 ammo_bullets
+  0:19 Item: 1 Rune 1
+  0:29 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  0:30 Item: 0 weapon_rocketlauncher
+  0:30 Item: 0 weapon_rocketlauncher
+  0:40 Item: 1 Rune 4
+  0:42 Item: 1 weapon_rocketlauncher
+  0:42 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  0:43 Item: 0 weapon_rocketlauncher
+  0:44 say: Ranger: Best trophy you will ever get, scumbag.
+  0:45 Item: 0 ammo_rockets
+  0:45 Item: 1 Rune 4
+  0:51 Item: 1 weapon_rocketlauncher
+  0:55 Item: 1 item_health_large
+  1:00 Item: 1 item_armor_body
+  1:04 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  1:06 ShutdownGame:
+  1:06 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 weapon_rocketlauncher
+  0:03 Item: 0 ammo_rockets
+  0:07 Item: 0 item_armor_shard
+  0:07 Item: 0 item_armor_shard
+  0:07 Item: 0 item_armor_shard
+  0:12 Item: 0 Rune 3
+  0:23 ShutdownGame:
+  0:23 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 Item: 0 weapon_rocketlauncher
+  0:04 Item: 0 ammo_rockets
+  0:06 Item: 0 Rune 1
+  0:27 ShutdownGame:
+  0:27 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 Rune 1
+  0:06 Item: 0 weapon_rocketlauncher
+  0:07 Item: 0 ammo_rockets
+  0:11 Item: 0 item_armor_body
+  0:19 ClientConnect: 1
+  0:19 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  0:19 ClientBegin: 1
+  0:20 Item: 1 ammo_bullets
+  0:21 Item: 1 Rune 1
+  0:23 Item: 1 weapon_rocketlauncher
+  0:27 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  0:29 Item: 0 Rune 2
+  0:42 Item: 1 ammo_slugs
+  0:43 Item: 1 ammo_slugs
+  0:46 Item: 1 weapon_railgun
+  0:47 Item: 1 item_health
+  0:50 Item: 1 ammo_rockets
+  0:50 Item: 1 weapon_rocketlauncher
+  0:53 Kill: 0 1 3: KnyteHawkk killed Ranger by MOD_MACHINEGUN
+  0:53 Item: 0 weapon_rocketlauncher
+  0:55 say: Ranger: there is never a personal teleporter when you need one.
+  0:57 ShutdownGame:
+  0:57 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 Rune 1
+  0:06 Item: 0 weapon_rocketlauncher
+  0:06 Item: 0 ammo_rockets
+  0:10 ClientConnect: 1
+  0:10 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  0:10 ClientBegin: 1
+  0:11 Item: 0 weapon_rocketlauncher
+  0:15 Item: 1 Rune 2
+  0:22 Item: 1 ammo_bullets
+  0:37 Item: 1 ammo_rockets
+  0:50 Item: 0 weapon_rocketlauncher
+  0:51 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  0:53 say: Ranger: Best trophy you'll ever get, scumbag.
+  0:55 Item: 1 weapon_rocketlauncher
+  0:57 Item: 1 Rune 2
+  0:57 Item: 1 item_armor_body
+  1:01 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  1:02 Item: 1 weapon_rocketlauncher
+  1:11 Item: 0 weapon_rocketlauncher
+  1:12 Item: 0 ammo_rockets
+  1:24 Item: 1 ammo_slugs
+  1:27 Item: 0 weapon_railgun
+  1:29 Item: 1 item_health_large
+  1:31 Item: 0 Rune 2
+  1:43 Item: 0 weapon_rocketlauncher
+  1:43 Item: 1 weapon_railgun
+  1:44 ShutdownGame:
+  1:44 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 weapon_rocketlauncher
+  0:03 Item: 0 ammo_rockets
+  0:10 Item: 0 Rune 2
+  0:12 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  0:17 ClientConnect: 1
+  0:17 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  0:17 ClientBegin: 1
+  0:19 Item: 1 ammo_bullets
+  0:19 Item: 1 Rune 1
+  0:19 Item: 0 ammo_rockets
+  0:19 Item: 0 weapon_rocketlauncher
+  0:22 Item: 1 item_armor_body
+  0:24 Item: 0 Rune 2
+  0:29 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  0:31 Item: 0 weapon_rocketlauncher
+  0:31 say: Ranger: Ranger to Base, we're under heavy fire here.
+  0:38 Item: 1 weapon_rocketlauncher
+  0:41 Item: 1 Rune 2
+  0:47 Item: 1 ammo_rockets
+  0:50 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  0:57 Item: 1 Rune 1
+  1:00 Kill: 0 1 3: KnyteHawkk killed Ranger by MOD_MACHINEGUN
+  1:02 say: Ranger: Full on LUCK!
+  1:03 ShutdownGame:
+  1:03 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 weapon_rocketlauncher
+  0:03 Item: 0 ammo_rockets
+  0:09 ShutdownGame:
+  0:09 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:02 Item: 0 weapon_rocketlauncher
+  0:03 Item: 0 ammo_rockets
+  0:35 Item: 0 item_armor_body
+  0:46 ShutdownGame:
+  0:46 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:02 Item: 0 weapon_rocketlauncher
+  0:03 Item: 0 ammo_rockets
+  0:06 Item: 0 Rune 1
+  0:12 ShutdownGame:
+  0:12 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:02 Item: 0 weapon_rocketlauncher
+  0:03 Item: 0 ammo_rockets
+  0:05 Item: 0 Rune 1
+  0:11 Item: 0 item_armor_shard
+  0:11 Item: 0 item_armor_shard
+  0:11 Item: 0 item_armor_shard
+  0:11 Item: 0 item_armor_combat
+  0:15 Item: 0 item_armor_shard
+  0:15 Item: 0 item_armor_shard
+  0:15 Item: 0 item_armor_shard
+  0:23 Kill: 0 0 20: KnyteHawkk killed KnyteHawkk by MOD_SUICIDE
+  0:29 Item: 0 weapon_rocketlauncher
+  0:43 Item: 0 Rune 2
+  0:43 Item: 0 ammo_slugs
+  0:47 Item: 0 weapon_railgun
+  0:49 Item: 0 item_health
+  0:52 Item: 0 weapon_rocketlauncher
+  0:55 Item: 0 item_health_large
+  0:57 Item: 0 item_armor_shard
+  0:58 Item: 0 item_armor_shard
+  0:58 Item: 0 item_armor_shard
+  0:58 Item: 0 item_armor_combat
+  1:01 Item: 0 item_health_large
+  1:03 Kill: 0 0 7: KnyteHawkk killed KnyteHawkk by MOD_ROCKET_SPLASH
+  1:09 ClientConnect: 1
+  1:09 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0
+  1:09 ClientBegin: 1
+  1:12 say: Ranger: Yessss! New victims everywhere!
+  1:12 Item: 1 Rune 1
+  1:14 Item: 1 ammo_rockets
+  1:15 Item: 0 weapon_rocketlauncher
+  1:15 Item: 0 ammo_rockets
+  1:15 Item: 1 weapon_rocketlauncher
+  1:17 Item: 0 Rune 1
+  1:17 Item: 0 item_armor_body
+  1:23 Item: 0 item_armor_shard
+  1:23 Item: 0 item_armor_shard
+  1:23 Item: 0 item_armor_shard
+  1:26 Item: 1 item_health_large
+  1:27 Item: 0 weapon_rocketlauncher
+  1:36 Item: 0 weapon_rocketlauncher
+  1:37 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  1:39 Item: 0 item_health_large
+  1:41 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  1:44 Item: 0 item_armor_shard
+  1:44 Item: 0 item_armor_shard
+  1:45 Item: 0 item_armor_shard
+  1:45 Item: 0 item_armor_combat
+  1:45 Item: 1 Rune 2
+  1:52 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  1:54 Item: 1 Rune 1
+  1:56 Item: 1 ammo_shells
+  1:57 Item: 1 weapon_shotgun
+  1:58 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  2:00 say: Ranger: I would give you my boots, but I don't think you could fill 'em!
+  2:00 Item: 0 item_armor_shard
+  2:00 Item: 0 item_armor_shard
+  2:00 Item: 0 item_armor_shard
+  2:03 Item: 1 Rune 2
+  2:03 Item: 1 weapon_rocketlauncher
+  2:04 Item: 1 ammo_rockets
+  2:04 Kill: 0 1 3: KnyteHawkk killed Ranger by MOD_MACHINEGUN
+  2:07 Item: 0 weapon_rocketlauncher
+  2:08 Item: 0 weapon_rocketlauncher
+  2:08 Item: 1 weapon_rocketlauncher
+  2:08 Item: 1 ammo_rockets
+  2:11 Item: 0 item_armor_body
+  2:15 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  2:15 Item: 0 weapon_rocketlauncher
+  2:20 Item: 1 Rune 1
+  2:26 Item: 1 weapon_rocketlauncher
+  2:30 Item: 1 weapon_rocketlauncher
+  2:30 Kill: 1 0 6: Ranger killed KnyteHawkk by MOD_ROCKET
+  2:34 Item: 1 item_health_large
+  2:36 ShutdownGame:
+  2:36 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 weapon_rocketlauncher
+  0:03 Item: 0 ammo_rockets
+  0:05 Item: 0 Rune 1
+  0:09 Item: 0 item_armor_shard
+  0:09 Item: 0 item_armor_shard
+  0:09 Item: 0 item_armor_shard
+  0:10 Item: 0 item_armor_combat
+  0:12 Item: 0 weapon_shotgun
+  0:12 Item: 0 ammo_shells
+  0:21 Item: 0 Rune 2
+  0:51 Item: 0 item_health_large
+  1:26 Item: 0 Rune 2
+  1:26 Item: 0 item_armor_shard
+  1:26 Item: 0 item_armor_shard
+  1:26 Item: 0 item_armor_shard
+  1:27 Item: 0 item_armor_combat
+  2:13 Item: 0 Rune 2
+  2:13 Item: 0 weapon_shotgun
+  2:13 Item: 0 ammo_shells
+  2:16 Item: 0 item_health_large
+  2:18 Item: 0 weapon_rocketlauncher
+  2:18 Item: 0 ammo_rockets
+  2:20 Item: 0 item_armor_body
+  2:27 Item: 0 Rune 1
+  3:09 Item: 0 Rune 2
+  3:31 Item: 0 ammo_bullets
+  3:31 Item: 0 Rune 1
+  3:34 Item: 0 ammo_rockets
+  3:35 Item: 0 weapon_rocketlauncher
+  3:46 Item: 0 Rune 2
+  3:55 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  3:58 ShutdownGame:
+  3:58 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:23 Item: 0 weapon_rocketlauncher
+  0:23 Item: 0 ammo_rockets
+  0:42 Item: 0 Rune 1
+  1:03 Item: 0 ammo_rockets
+  1:24 ShutdownGame:
+  1:24 ------------------------------------------------------------
+  1:24 ------------------------------------------------------------
+  1:24 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+  1:24 Creating Rune Spawner
+  1:25 ClientConnect: 0
+  1:25 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:25 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:25 ClientBegin: 0
+  1:28 Item: 0 weapon_rocketlauncher
+  1:28 Item: 0 ammo_rockets
+  1:36 Item: 0 item_armor_body
+  1:52 Item: 0 item_armor_shard
+  1:52 Item: 0 item_armor_shard
+  1:52 Item: 0 item_armor_shard
+  1:52 Item: 0 item_armor_combat
+  1:54 Item: 0 ammo_shells
+  1:54 Item: 0 Rune 2
+  1:54 Item: 0 weapon_shotgun
+  1:59 ClientConnect: 1
+  1:59 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\100\w\0\l\0\skill\ 4.00\tt\0\tl\0
+  1:59 ClientBegin: 1
+  2:01 Item: 0 item_health_large
+  2:02 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  2:04 Item: 0 item_armor_shard
+  2:04 Item: 0 item_armor_shard
+  2:05 Item: 0 item_armor_shard
+  2:06 Item: 1 ammo_rockets
+  2:08 Item: 1 weapon_rocketlauncher
+  2:08 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  2:10 Item: 1 Rune 1
+  2:11 Item: 1 weapon_rocketlauncher
+  2:13 Item: 1 item_armor_body
+  2:14 Item: 0 item_quad
+  2:18 Item: 1 ammo_rockets
+  2:19 Kill: 0 0 7: KnyteHawkk killed KnyteHawkk by MOD_ROCKET_SPLASH
+  2:20 Item: 1 weapon_rocketlauncher
+  2:22 Item: 1 ammo_bullets
+  2:23 Item: 0 Rune 1
+  2:23 Item: 0 ammo_shells
+  2:24 Item: 0 weapon_shotgun
+  2:27 Item: 0 item_armor_shard
+  2:27 Item: 0 item_armor_shard
+  2:27 Item: 0 item_armor_shard
+  2:27 Item: 0 item_armor_combat
+  2:29 Item: 0 weapon_rocketlauncher
+  2:37 Item: 0 item_armor_shard
+  2:37 Item: 0 item_armor_shard
+  2:37 Item: 0 item_armor_shard
+  2:39 Item: 0 weapon_shotgun
+  2:45 Item: 1 item_health_large
+  2:46 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  2:49 Item: 0 weapon_rocketlauncher
+  2:51 Item: 0 Rune 1
+  2:56 Item: 0 weapon_rocketlauncher
+  2:58 Item: 0 item_armor_body
+  3:00 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  3:04 Item: 1 Rune 1
+  3:08 Item: 0 item_quad
+  3:10 Item: 1 ammo_rockets
+  3:11 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  3:12 Item: 0 item_health_large
+  3:14 Item: 1 weapon_rocketlauncher
+  3:14 Item: 1 Rune 2
+  3:15 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  3:19 Item: 0 item_health_large
+  3:20 Item: 1 weapon_rocketlauncher
+  3:21 Kill: 0 1 3: KnyteHawkk killed Ranger by MOD_MACHINEGUN
+  3:25 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  3:30 Item: 0 item_armor_body
+  3:30 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  3:32 Item: 0 weapon_rocketlauncher
+  3:32 Item: 0 weapon_rocketlauncher
+  3:33 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  3:36 Item: 0 item_armor_shard
+  3:36 Item: 0 item_armor_shard
+  3:36 Item: 0 item_armor_shard
+  3:36 Item: 0 item_armor_combat
+  3:37 Item: 1 weapon_rocketlauncher
+  3:37 Item: 1 weapon_rocketlauncher
+  3:39 Item: 1 Rune 2
+  3:39 Item: 1 ammo_rockets
+  3:39 Kill: 1 0 6: Ranger killed KnyteHawkk by MOD_ROCKET
+  3:39 Kill: 1 1 7: Ranger killed Ranger by MOD_ROCKET_SPLASH
+  3:41 say: Ranger: There's never a personal teleporter when you need one.
+  3:43 Item: 0 weapon_rocketlauncher
+  3:44 Item: 0 weapon_rocketlauncher
+  3:44 Item: 0 weapon_rocketlauncher
+  3:46 Item: 0 Rune 2
+  3:46 Item: 0 ammo_bullets
+  3:47 Item: 1 Rune 1
+  3:52 Item: 0 item_armor_shard
+  3:52 Item: 0 item_armor_shard
+  3:52 Item: 0 item_armor_shard
+  3:52 Item: 1 weapon_rocketlauncher
+  3:55 Kill: 0 1 3: KnyteHawkk killed Ranger by MOD_MACHINEGUN
+  3:56 Item: 0 item_health_large
+  4:00 Item: 1 Rune 2
+  4:04 Item: 1 weapon_rocketlauncher
+  4:06 Item: 0 item_quad
+  4:06 Item: 1 weapon_rocketlauncher
+  4:09 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  4:11 Item: 0 item_health_large
+  4:14 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  4:16 Item: 1 Rune 1
+  4:16 Item: 0 item_armor_body
+  4:17 Item: 1 weapon_rocketlauncher
+  4:18 Item: 1 weapon_rocketlauncher
+  4:20 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  4:27 Item: 0 item_armor_shard
+  4:27 Item: 0 item_armor_shard
+  4:27 Item: 0 item_armor_shard
+  4:27 Item: 1 ammo_slugs
+  4:27 Item: 0 item_armor_combat
+  4:28 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  4:34 Item: 0 item_armor_shard
+  4:34 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  4:34 Item: 0 item_armor_shard
+  4:34 Item: 0 item_armor_shard
+  4:38 Item: 1 weapon_rocketlauncher
+  4:39 Item: 0 weapon_rocketlauncher
+  4:40 Item: 0 ammo_rockets
+  4:41 Kill: 0 1 3: KnyteHawkk killed Ranger by MOD_MACHINEGUN
+  4:42 Item: 0 ammo_bullets
+  4:47 Item: 1 Rune 1
+  4:49 Item: 0 item_health_large
+  4:50 Item: 0 weapon_rocketlauncher
+  4:52 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  4:54 say: Ranger: Pin me up and call me a target. An outstanding shot, knytehawkk.
+  4:54 Item: 0 item_armor_body
+  4:58 Item: 0 weapon_railgun
+  5:00 Item: 1 Rune 1
+  5:00 Kill: 0 1 10: KnyteHawkk killed Ranger by MOD_RAILGUN
+  5:02 Item: 0 item_health
+  5:05 Item: 1 ammo_shells
+  5:05 Item: 0 ammo_rockets
+  5:05 Item: 1 weapon_shotgun
+  5:06 Item: 1 Rune 2
+  5:10 Kill: 1 0 1: Ranger killed KnyteHawkk by MOD_SHOTGUN
+  5:10 Item: 1 weapon_rocketlauncher
+  5:17 Item: 0 weapon_rocketlauncher
+  5:20 Item: 1 item_armor_body
+  5:22 Item: 0 weapon_railgun
+  5:25 Item: 1 weapon_rocketlauncher
+  5:30 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  5:31 Item: 0 ammo_bullets
+  5:33 Item: 1 ammo_rockets
+  5:34 Item: 0 Rune 2
+  5:34 Kill: 1022 0 19: <world> killed KnyteHawkk by MOD_FALLING
+  5:35 Item: 1 weapon_rocketlauncher
+  5:38 Item: 0 ammo_bullets
+  5:40 Item: 0 Rune 1
+  5:41 Item: 1 weapon_shotgun
+  5:41 Item: 1 Rune 1
+  5:44 Item: 1 item_armor_shard
+  5:44 Item: 1 item_armor_shard
+  5:44 Item: 1 item_armor_shard
+  5:45 Item: 1 item_armor_combat
+  5:48 Kill: 1 0 1: Ranger killed KnyteHawkk by MOD_SHOTGUN
+  5:51 Item: 1 weapon_rocketlauncher
+  5:53 ShutdownGame:
+  5:53 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 Item: 0 Rune 1
+  0:06 Item: 0 weapon_rocketlauncher
+  0:07 Item: 0 ammo_rockets
+  0:15 Item: 0 item_health_large
+  0:18 Item: 0 item_armor_shard
+  0:18 Item: 0 item_armor_shard
+  0:18 Item: 0 item_armor_shard
+  0:18 Item: 0 item_armor_combat
+  0:29 Item: 0 item_armor_body
+  0:39 Kill: 1022 0 19: <world> killed KnyteHawkk by MOD_FALLING
+  0:40 ShutdownGame:
+  0:40 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:02 ShutdownGame:
+  0:02 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:02 ShutdownGame:
+  0:02 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:02 Item: 0 weapon_rocketlauncher
+  0:03 Item: 0 ammo_rockets
+  0:32 Item: 0 item_armor_shard
+  0:32 Item: 0 item_armor_shard
+  0:32 Item: 0 item_armor_shard
+  0:32 Item: 0 item_armor_combat
+  0:45 Item: 0 weapon_rocketlauncher
+  0:45 Item: 0 ammo_rockets
+  0:47 Item: 0 item_armor_body
+  0:49 Item: 0 item_health_large
+  0:52 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  0:58 Item: 0 weapon_rocketlauncher
+  1:01 ClientConnect: 1
+  1:01 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  1:01 ClientBegin: 1
+  1:05 Item: 1 ammo_rockets
+  1:06 Item: 1 weapon_rocketlauncher
+  1:12 Item: 1 weapon_rocketlauncher
+  1:14 Item: 1 ammo_bullets
+  1:25 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  1:26 Item: 0 weapon_rocketlauncher
+  1:27 say: Ranger: So your momma's apron proved to be good armor. Big deal.
+  1:37 Item: 1 weapon_rocketlauncher
+  1:43 Item: 1 item_health_large
+  1:45 Item: 1 item_armor_body
+  1:56 Item: 1 item_health_large
+  2:01 Item: 0 weapon_rocketlauncher
+  2:02 Item: 1 ammo_rockets
+  2:11 Item: 0 item_armor_shard
+  2:11 Item: 0 item_armor_shard
+  2:11 Item: 0 item_armor_shard
+  2:11 Item: 0 item_armor_combat
+  2:13 Item: 1 weapon_rocketlauncher
+  2:15 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  2:15 Item: 0 ammo_rockets
+  2:16 Item: 0 weapon_rocketlauncher
+  2:20 Item: 0 weapon_rocketlauncher
+  2:26 Item: 1 ammo_slugs
+  2:29 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  2:30 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  2:33 Item: 1 item_armor_body
+  2:40 Item: 1 weapon_rocketlauncher
+  2:43 Item: 0 ammo_bullets
+  2:53 Item: 1 weapon_rocketlauncher
+  3:02 Item: 1 item_armor_body
+  3:08 Item: 1 ammo_rockets
+  3:19 Item: 1 weapon_shotgun
+  3:19 Item: 1 ammo_shells
+  3:31 Item: 1 ammo_bullets
+  3:35 Item: 0 weapon_rocketlauncher
+  3:36 Item: 0 ammo_rockets
+  3:47 Item: 0 Rune 3
+  3:48 Item: 0 ammo_bullets
+  3:49 Item: 1 item_quad
+  3:50 Item: 1 item_armor_body
+  3:58 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  4:02 Item: 0 weapon_rocketlauncher
+  4:05 Item: 0 item_armor_shard
+  4:05 Item: 0 item_armor_shard
+  4:05 Item: 0 item_armor_shard
+  4:05 Item: 0 item_armor_combat
+  4:06 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  4:12 Item: 1 weapon_rocketlauncher
+  4:19 Item: 1 item_health_large
+  4:21 Item: 0 weapon_rocketlauncher
+  4:22 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  4:25 Item: 1 weapon_rocketlauncher
+  4:26 Item: 0 weapon_rocketlauncher
+  4:27 Item: 0 ammo_rockets
+  4:29 Item: 0 item_armor_body
+  4:35 Item: 1 weapon_shotgun
+  4:36 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  4:38 say: Ranger: they're going to be picking up pieces of you in the next county.
+  4:41 Item: 0 item_quad
+  4:42 Item: 1 weapon_rocketlauncher
+  4:43 Item: 0 weapon_rocketlauncher
+  4:45 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  4:51 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  4:52 Item: 0 ammo_rockets
+  4:56 Item: 1 weapon_rocketlauncher
+  4:57 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  5:01 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  5:06 Item: 1 weapon_rocketlauncher
+  5:06 Item: 1 weapon_rocketlauncher
+  5:09 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  5:11 say: Ranger: Ranger to Base, we're under heavy fire here.
+  5:13 Item: 0 item_armor_shard
+  5:13 Item: 0 item_armor_shard
+  5:13 Item: 0 item_armor_shard
+  5:13 Item: 0 item_armor_combat
+  5:14 Item: 1 weapon_shotgun
+  5:15 Item: 1 ammo_shells
+  5:23 Item: 1 item_armor_body
+  5:28 Kill: 0 1 3: KnyteHawkk killed Ranger by MOD_MACHINEGUN
+  5:30 Item: 0 weapon_shotgun
+  5:36 Item: 1 weapon_rocketlauncher
+  5:36 Item: 1 weapon_shotgun
+  5:40 Item: 1 ammo_rockets
+  5:41 Item: 1 weapon_rocketlauncher
+  5:43 Item: 1 ammo_bullets
+  5:45 Kill: 0 1 1: KnyteHawkk killed Ranger by MOD_SHOTGUN
+  5:47 say: Ranger: I'd take a bow but I can not find my legs.
+  5:49 Item: 1 ammo_rockets
+  5:51 Item: 1 weapon_rocketlauncher
+  5:52 Item: 1 item_armor_body
+  5:53 Item: 0 ammo_shells
+  5:53 Item: 0 weapon_shotgun
+  5:55 Item: 0 item_armor_shard
+  5:56 Item: 0 item_armor_shard
+  5:56 Item: 0 item_armor_shard
+  5:56 Item: 0 item_armor_combat
+  5:57 Item: 1 weapon_rocketlauncher
+  5:58 Item: 0 item_armor_shard
+  5:58 Item: 0 item_armor_shard
+  5:58 Item: 0 item_armor_shard
+  6:04 Item: 1 item_health_large
+  6:15 Item: 0 item_health_mega
+  6:22 Item: 1 ammo_rockets
+  6:27 Item: 0 item_armor_body
+  6:28 Kill: 0 1 2: KnyteHawkk killed Ranger by MOD_GAUNTLET
+  6:28 Item: 0 weapon_rocketlauncher
+  6:30 Item: 0 weapon_rocketlauncher
+  6:36 Item: 0 ammo_bullets
+  6:45 Item: 0 ammo_bullets
+  6:47 Item: 1 ammo_rockets
+  6:51 Item: 1 weapon_rocketlauncher
+  6:53 Kill: 0 1 3: KnyteHawkk killed Ranger by MOD_MACHINEGUN
+  6:55 say: Ranger: Pin me up and call me a target. An outstanding shot, knytehawkk.
+  6:57 Item: 0 Rune 3
+  7:03 Item: 0 weapon_rocketlauncher
+  7:04 Item: 1 weapon_rocketlauncher
+  7:09 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  7:09 Item: 0 Rune 1
+  7:13 Item: 1 ammo_rockets
+  7:16 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  7:17 Item: 0 item_armor_shard
+  7:17 Item: 0 item_armor_shard
+  7:17 Item: 0 item_armor_shard
+  7:17 Item: 0 item_armor_combat
+  7:20 Item: 1 weapon_rocketlauncher
+  7:21 Item: 1 weapon_rocketlauncher
+  7:26 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  7:30 Item: 0 weapon_rocketlauncher
+  7:30 Item: 0 ammo_rockets
+  7:37 Item: 0 weapon_rocketlauncher
+  7:38 Item: 1 ammo_shells
+  7:38 Item: 1 weapon_shotgun
+  7:39 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  7:41 Item: 0 item_armor_shard
+  7:41 Item: 0 item_armor_shard
+  7:41 Item: 0 item_armor_shard
+  7:41 say: Ranger: Pin me up and call me a target. An outstanding shot, knytehawkk.
+  7:46 Item: 1 weapon_rocketlauncher
+  7:50 Item: 1 item_armor_body
+  7:56 Item: 0 weapon_rocketlauncher
+  7:56 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  7:56 Item: 0 weapon_rocketlauncher
+  7:58 Item: 0 Rune 3
+  8:00 Item: 1 ammo_rockets
+  8:01 Item: 1 weapon_rocketlauncher
+  8:03 Item: 0 weapon_rocketlauncher
+  8:05 Item: 1 ammo_slugs
+  8:08 Item: 0 item_health_large
+  8:09 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  8:09 Item: 0 Rune 3
+  8:09 Item: 0 weapon_rocketlauncher
+  8:13 Item: 0 item_health_large
+  8:14 Item: 0 Rune 3
+  8:15 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  8:19 Item: 1 weapon_rocketlauncher
+  8:20 Item: 0 Rune 2
+  8:25 Item: 0 weapon_railgun
+  8:27 Item: 0 item_health
+  8:34 Kill: 0 1 10: KnyteHawkk killed Ranger by MOD_RAILGUN
+  8:37 Item: 0 weapon_railgun
+  8:37 Item: 1 weapon_rocketlauncher
+  8:38 Item: 0 item_health
+  8:42 Kill: 0 1 10: KnyteHawkk killed Ranger by MOD_RAILGUN
+  8:48 Item: 1 weapon_rocketlauncher
+  8:49 Item: 1 weapon_rocketlauncher
+  8:50 Kill: 0 1 10: KnyteHawkk killed Ranger by MOD_RAILGUN
+  8:52 say: Ranger: Best trophy you'll ever get, scumbag.
+  8:57 Item: 1 ammo_rockets
+  9:00 Item: 1 weapon_rocketlauncher
+  9:02 Item: 1 item_armor_body
+  9:03 Kill: 0 1 10: KnyteHawkk killed Ranger by MOD_RAILGUN
+  9:06 Item: 0 weapon_railgun
+  9:07 Item: 0 item_health
+  9:08 Item: 1 ammo_rockets
+  9:09 Item: 1 weapon_rocketlauncher
+  9:11 Item: 1 weapon_rocketlauncher
+  9:16 Item: 1 weapon_rocketlauncher
+  9:17 Kill: 0 1 10: KnyteHawkk killed Ranger by MOD_RAILGUN
+  9:19 say: Ranger: Best trophy you'll ever get, scumbag.
+  9:21 Item: 1 weapon_rocketlauncher
+  9:30 Item: 1 weapon_rocketlauncher
+  9:31 Kill: 0 1 2: KnyteHawkk killed Ranger by MOD_GAUNTLET
+  9:31 Exit: Fraglimit hit.
+  9:31 score: 20  ping: 0  client: 0 KnyteHawkk
+  9:31 score: -3  ping: 0  client: 1 Ranger
+  9:31 Item: 0 weapon_rocketlauncher
+  9:32 Item: 0 item_health_large
+  9:34 ShutdownGame:
+  9:34 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 Item: 0 weapon_rocketlauncher
+  0:04 Item: 0 ammo_rockets
+  0:08 Item: 0 item_armor_body
+  0:11 Item: 0 ammo_rockets
+  0:12 Item: 0 weapon_rocketlauncher
+  0:14 Item: 0 weapon_shotgun
+  0:15 Item: 0 ammo_shells
+  0:16 Kill: 0 0 7: KnyteHawkk killed KnyteHawkk by MOD_ROCKET_SPLASH
+  0:20 ShutdownGame:
+  0:20 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 weapon_rocketlauncher
+  0:03 Item: 0 ammo_rockets
+  0:09 Item: 0 ammo_rockets
+  0:09 Item: 0 weapon_rocketlauncher
+  0:12 Item: 0 item_armor_shard
+  0:12 Item: 0 item_armor_shard
+  0:12 Item: 0 item_armor_shard
+  0:12 Item: 0 item_armor_combat
+  0:18 Item: 0 item_armor_body
+  0:23 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  0:27 Item: 0 ammo_shells
+  0:28 Item: 0 weapon_shotgun
+  0:31 Item: 0 weapon_rocketlauncher
+  0:50 ClientConnect: 1
+  0:50 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  0:50 ClientBegin: 1
+  0:53 Item: 1 weapon_rocketlauncher
+  0:53 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  0:53 Item: 0 item_armor_shard
+  0:54 Item: 0 item_armor_shard
+  0:54 Item: 0 item_armor_shard
+  0:54 Item: 0 item_armor_combat
+  0:59 Item: 0 weapon_rocketlauncher
+  0:59 Item: 0 ammo_rockets
+  1:01 Item: 0 item_armor_body
+  1:04 Item: 1 item_haste
+  1:04 Item: 1 weapon_rocketlauncher
+  1:06 Item: 1 ammo_rockets
+  1:07 Item: 0 weapon_rocketlauncher
+  1:07 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  1:09 Item: 0 weapon_rocketlauncher
+  1:09 Item: 0 item_haste
+  1:11 Item: 1 weapon_rocketlauncher
+  1:17 Item: 1 ammo_shells
+  1:17 Item: 1 weapon_shotgun
+  1:27 Item: 1 item_health_large
+  1:29 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  1:30 Item: 0 weapon_rocketlauncher
+  1:30 Item: 0 item_haste
+  1:31 say: Ranger: Ranger to Base, we're under heavy fire here.
+  1:32 Item: 1 weapon_rocketlauncher
+  1:36 Item: 1 ammo_bullets
+  1:38 Item: 1 item_armor_body
+  1:39 Item: 0 ammo_bullets
+  1:48 Item: 1 item_health_large
+  1:50 Item: 1 item_armor_shard
+  1:50 Item: 1 item_armor_shard
+  1:50 Item: 1 item_armor_shard
+  1:51 Item: 1 item_armor_combat
+  1:53 Item: 1 weapon_shotgun
+  1:54 Item: 1 ammo_shells
+  1:54 Item: 0 item_armor_shard
+  1:54 Item: 0 item_armor_shard
+  1:55 Item: 0 item_armor_shard
+  1:57 Item: 0 weapon_shotgun
+  2:01 Item: 1 weapon_rocketlauncher
+  2:03 Kill: 0 1 1: KnyteHawkk killed Ranger by MOD_SHOTGUN
+  2:05 Item: 0 item_haste
+  2:05 say: Ranger: So your momma's apron proved to be good armor. Big deal.
+  2:06 ShutdownGame:
+  2:06 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:05 KnyteHawkk gave himself a rune: armor
+  0:05 Item: 0 weapon_rocketlauncher
+  0:06 Item: 0 ammo_rockets
+  0:09 KnyteHawkk gave himself a rune: armor
+  0:09 KnyteHawkk gave himself a rune: armor
+  0:09 KnyteHawkk gave himself a rune: armor
+  0:09 KnyteHawkk gave himself a rune: armor
+  0:10 KnyteHawkk gave himself a rune: armor
+  0:10 KnyteHawkk gave himself a rune: armor
+  0:10 KnyteHawkk gave himself a rune: armor
+  0:19 Item: 0 item_health_mega
+  0:25 Item: 0 item_armor_shard
+  0:25 Item: 0 item_armor_shard
+  0:26 Item: 0 item_armor_shard
+  0:26 Item: 0 item_armor_combat
+  0:33 Item: 0 weapon_rocketlauncher
+  0:36 Item: 0 item_armor_body
+  0:38 Item: 0 Rune 6
+  0:43 Item: 0 Rune 6
+  0:48 Item: 0 Rune 6
+  0:49 Item: 0 ammo_rockets
+  0:49 Item: 0 weapon_rocketlauncher
+  0:53 Item: 0 ammo_bullets
+  1:01 Item: 0 Rune 3
+  1:07 Item: 0 item_quad
+  1:13 Item: 0 weapon_railgun
+  1:19 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  1:22 ShutdownGame:
+  1:22 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 weapon_rocketlauncher
+  0:03 Item: 0 ammo_rockets
+  0:09 ShutdownGame:
+  0:09 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:06 Item: 0 weapon_rocketlauncher
+  0:09 Item: 0 item_armor_shard
+  0:10 Item: 0 item_armor_shard
+  0:10 Item: 0 item_armor_shard
+  0:10 Item: 0 item_armor_combat
+  1:15 Item: 0 item_health_mega
+  1:20 Item: 0 weapon_rocketlauncher
+  1:21 Item: 0 ammo_rockets
+  2:45 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  2:51 ShutdownGame:
+  2:51 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:05 Item: 0 weapon_rocketlauncher
+  0:06 Item: 0 ammo_rockets
+  0:08 Item: 0 ammo_bullets
+  0:51 Item: 0 item_quad
+  0:53 Kill: 0 0 7: KnyteHawkk killed KnyteHawkk by MOD_ROCKET_SPLASH
+  1:29 Item: 0 item_armor_body
+  1:37 Item: 0 ammo_rockets
+  1:38 Item: 0 weapon_rocketlauncher
+  2:19 ClientConnect: 1
+  2:19 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  2:19 ClientBegin: 1
+  2:22 say: Ranger: Ranger to Base. That's a big 10-4!, we're good to go here.
+  2:23 Item: 1 ammo_rockets
+  2:25 Item: 1 weapon_rocketlauncher
+  2:27 Item: 1 ammo_bullets
+  2:30 Item: 1 item_armor_body
+  2:33 Item: 1 item_health_large
+  2:40 Item: 1 item_health_large
+  2:59 Item: 1 item_armor_body
+  3:07 Item: 1 weapon_rocketlauncher
+  3:27 Item: 1 ammo_rockets
+  3:35 Item: 0 weapon_rocketlauncher
+  3:40 Item: 1 ammo_shells
+  3:41 Item: 1 weapon_shotgun
+  3:44 Item: 1 item_health_large
+  3:48 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  3:48 ClientDisconnect: 1
+  4:09 ShutdownGame:
+  4:09 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:06 Item: 0 weapon_rocketlauncher
+  0:06 Item: 0 ammo_rockets
+  0:19 ShutdownGame:
+  0:19 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:10 Item: 0 weapon_rocketlauncher
+  0:10 Item: 0 ammo_rockets
+  0:22 ClientConnect: 1
+  0:22 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  0:22 ClientBegin: 1
+  0:23 Item: 1 item_health_large
+  0:23 Item: 0 weapon_rocketlauncher
+  0:36 Item: 1 weapon_rocketlauncher
+  0:42 Item: 1 ammo_rockets
+  0:45 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  0:47 say: Ranger: Hah! That only makes me stronger, knytehawkk!
+  0:48 Item: 0 weapon_rocketlauncher
+  0:49 Item: 1 weapon_rocketlauncher
+  0:54 Item: 1 ammo_bullets
+  0:56 ShutdownGame:
+  0:56 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 Item: 0 weapon_rocketlauncher
+  0:05 Item: 0 ammo_rockets
+  0:19 ClientConnect: 1
+  0:19 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  0:19 ClientBegin: 1
+  0:20 Item: 0 weapon_rocketlauncher
+  0:22 Item: 1 weapon_rocketlauncher
+  0:22 Item: 0 item_armor_body
+  0:26 Item: 1 ammo_rockets
+  0:40 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  0:42 Item: 1 item_health_large
+  0:44 ShutdownGame:
+  0:44 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 weapon_rocketlauncher
+  0:03 Item: 0 ammo_rockets
+  0:11 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  0:13 Item: 0 ammo_rockets
+  0:14 Item: 0 weapon_rocketlauncher
+  0:20 ShutdownGame:
+  0:20 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 weapon_rocketlauncher
+  0:04 Item: 0 ammo_rockets
+  0:17 Item: 0 weapon_rocketlauncher
+  0:23 ShutdownGame:
+  0:23 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:02 Item: 0 weapon_rocketlauncher
+  0:03 Item: 0 ammo_rockets
+  0:07 Item: 0 weapon_rocketlauncher
+  0:12 Item: 0 weapon_rocketlauncher
+  0:23 ShutdownGame:
+  0:23 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:02 Item: 0 weapon_rocketlauncher
+  0:03 Item: 0 ammo_rockets
+  0:22 Item: 0 weapon_rocketlauncher
+  0:24 Item: 0 item_armor_body
+  0:28 ShutdownGame:
+  0:28 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 Item: 0 weapon_rocketlauncher
+  0:04 Item: 0 ammo_rockets
+  0:19 Item: 0 weapon_rocketlauncher
+  0:20 ShutdownGame:
+  0:20 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 ShutdownGame:
+  0:04 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 weapon_rocketlauncher
+  0:07 Item: 0 item_health_large
+  0:11 Item: 0 item_armor_body
+  0:18 Item: 0 item_armor_shard
+  0:18 Item: 0 item_armor_shard
+  0:18 Item: 0 item_armor_shard
+  0:19 Item: 0 item_armor_combat
+  0:21 Item: 0 ammo_shells
+  0:24 Item: 0 item_armor_shard
+  0:24 Item: 0 item_armor_shard
+  0:24 Item: 0 item_armor_shard
+  0:39 Item: 0 weapon_rocketlauncher
+  0:39 Item: 0 ammo_rockets
+  0:43 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  0:47 Item: 0 weapon_rocketlauncher
+  0:52 ShutdownGame:
+  0:52 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\Q3DM7\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 weapon_rocketlauncher
+  0:04 Item: 0 item_armor_shard
+  0:04 Item: 0 item_armor_shard
+  0:04 Item: 0 item_armor_shard
+  0:04 Item: 0 item_armor_shard
+  0:07 Item: 0 ammo_bullets
+  0:07 Item: 0 ammo_bullets
+  0:24 Item: 0 item_armor_combat
+  0:45 Item: 0 weapon_plasmagun
+  0:46 Item: 0 item_health_small
+  0:46 Item: 0 item_health_small
+  0:46 Item: 0 item_health_small
+  0:47 Item: 0 ammo_slugs
+  0:50 Item: 0 item_health_large
+  0:52 Item: 0 weapon_railgun
+  0:54 Item: 0 item_quad
+  0:55 Kill: 0 0 7: KnyteHawkk killed KnyteHawkk by MOD_ROCKET_SPLASH
+  0:59 ShutdownGame:
+  0:59 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\Q3DM12\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\bot_minplayers\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:10 Item: 0 ammo_rockets
+  0:15 Item: 0 holdable_teleporter
+  0:23 Item: 0 weapon_rocketlauncher
+  0:28 Item: 0 item_health_mega
+  0:54 Item: 0 item_armor_combat
+  2:08 Item: 0 weapon_rocketlauncher
+  2:12 Item: 0 item_quad
+  2:21 Kill: 0 0 7: KnyteHawkk killed KnyteHawkk by MOD_ROCKET_SPLASH
+  2:24 ShutdownGame:
+  2:24 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:07 ShutdownGame:
+  0:07 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 weapon_rocketlauncher
+  0:04 Item: 0 ammo_rockets
+  0:09 Kill: 0 0 20: KnyteHawkk killed KnyteHawkk by MOD_SUICIDE
+  0:18 Item: 0 Rune 3
+  0:27 Item: 0 Rune 8
+  0:28 Item: 0 Rune 8
+  0:33 Item: 0 weapon_rocketlauncher
+  0:34 Item: 0 Rune 8
+  0:38 Item: 0 item_armor_shard
+  0:39 Item: 0 item_armor_shard
+  0:39 Item: 0 item_armor_combat
+  0:42 Item: 0 Rune 9
+  0:45 Item: 0 Rune 4
+  0:48 Item: 0 Rune 4
+  0:49 Item: 0 Rune 9
+  0:54 Item: 0 Rune 9
+  0:54 Item: 0 ammo_rockets
+  0:54 Item: 0 weapon_rocketlauncher
+  0:59 Item: 0 ammo_shells
+  0:59 Item: 0 Rune 9
+  0:59 Item: 0 weapon_shotgun
+  1:06 Item: 0 item_armor_body
+  1:06 Item: 0 Rune 10
+  1:09 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  1:13 ShutdownGame:
+  1:13 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:02 Item: 0 weapon_rocketlauncher
+  0:03 Item: 0 ammo_rockets
+  0:06 Item: 0 Rune 2
+  0:11 Item: 0 item_armor_shard
+  0:11 Item: 0 item_armor_shard
+  0:11 Item: 0 item_armor_shard
+  0:12 Item: 0 item_armor_combat
+  0:15 Item: 0 Rune 8
+  0:20 Item: 0 Rune 3
+  0:26 Item: 0 Rune 3
+  0:27 Item: 0 ammo_rockets
+  0:27 Item: 0 Rune 8
+  0:28 Item: 0 weapon_rocketlauncher
+  0:32 Item: 0 item_armor_shard
+  0:32 Item: 0 item_armor_shard
+  0:32 Item: 0 item_armor_shard
+  0:38 Item: 0 Rune 8
+  0:48 Item: 0 Rune 4
+  0:48 Item: 0 weapon_railgun
+  0:49 Item: 0 Rune 9
+  0:53 Item: 0 ammo_rockets
+  0:57 Item: 0 Rune 4
+  1:02 Item: 0 Rune 9
+  1:02 Item: 0 item_armor_body
+  1:06 Item: 0 Rune 5
+  1:10 Item: 0 item_armor_shard
+  1:10 Item: 0 item_armor_shard
+  1:18 Item: 0 weapon_rocketlauncher
+  1:35 KnyteHawkk gave himself a rune: haste
+  1:38 Item: 0 weapon_rocketlauncher
+  1:44 Item: 0 ammo_rockets
+  1:58 KnyteHawkk gave himself a rune: vengeance
+  2:00 Item: 0 weapon_rocketlauncher
+  2:03 Item: 0 item_armor_body
+  2:08 ShutdownGame:
+  2:08 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:02 Item: 0 weapon_rocketlauncher
+  0:05 KnyteHawkk gave himself a rune: haste
+  0:10 ShutdownGame:
+  0:10 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:05 KnyteHawkk gave himself a rune: haste
+  0:06 Item: 0 weapon_rocketlauncher
+  0:10 Item: 0 item_armor_shard
+  0:10 Item: 0 item_armor_shard
+  0:11 Item: 0 item_armor_shard
+  0:11 Item: 0 item_armor_combat
+  0:16 ShutdownGame:
+  0:16 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:11 ShutdownGame:
+  0:11 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:05 Item: 0 weapon_rocketlauncher
+  0:05 Item: 0 ammo_rockets
+  0:14 ClientConnect: 1
+  0:14 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  0:14 ClientBegin: 1
+  0:17 ClientConnect: 2
+  0:17 ClientUserinfoChanged: 2 n\Mynx\t\0\model\mynx\hmodel\mynx\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  0:17 ClientBegin: 2
+  0:19 Item: 0 weapon_rocketlauncher
+  0:19 Item: 2 ammo_rockets
+  0:21 Item: 2 weapon_rocketlauncher
+  0:21 Item: 1 ammo_bullets
+  0:22 Item: 0 item_armor_shard
+  0:22 Item: 0 item_armor_shard
+  0:22 Item: 0 item_armor_shard
+  0:22 Item: 0 item_armor_combat
+  0:23 Item: 2 ammo_bullets
+  0:28 Kill: 0 2 7: KnyteHawkk killed Mynx by MOD_ROCKET_SPLASH
+  0:30 ShutdownGame:
+  0:30 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:09 Item: 0 weapon_rocketlauncher
+  0:09 Item: 0 ammo_rockets
+  0:12 ShutdownGame:
+  0:12 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:10 Item: 0 weapon_rocketlauncher
+  0:10 Item: 0 ammo_rockets
+  0:48 ShutdownGame:
+  0:48 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 ShutdownGame:
+  0:03 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 ShutdownGame:
+  0:04 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:12 Item: 0 weapon_rocketlauncher
+  0:13 Item: 0 ammo_rockets
+  0:18 Item: 0 item_armor_shard
+  0:18 Item: 0 item_armor_shard
+  0:19 Item: 0 item_armor_shard
+  0:19 Item: 0 item_armor_combat
+  0:21 Item: 0 weapon_shotgun
+  0:21 Item: 0 ammo_shells
+  0:28 Item: 0 item_armor_shard
+  0:28 Item: 0 item_armor_shard
+  0:28 Item: 0 item_armor_shard
+  0:31 Item: 0 ammo_shells
+  0:34 Item: 0 item_health_large
+  0:36 Item: 0 weapon_rocketlauncher
+  0:38 Item: 0 item_armor_body
+  0:41 Item: 0 ammo_rockets
+  0:41 Item: 0 weapon_rocketlauncher
+  1:00 Item: 0 item_armor_shard
+  1:00 Item: 0 item_armor_shard
+  1:00 Item: 0 item_armor_shard
+  1:00 Item: 0 item_armor_combat
+  1:14 Item: 0 item_armor_shard
+  1:31 Item: 0 item_armor_shard
+  2:13 Item: 0 item_quad
+  2:31 Item: 0 item_armor_shard
+  2:31 Item: 0 item_armor_shard
+  2:32 Item: 0 item_armor_shard
+  2:34 Item: 0 ammo_shells
+  2:45 Item: 0 weapon_railgun
+  2:47 Item: 0 item_health
+  2:49 Item: 0 item_health
+  2:56 Item: 0 item_health_large
+  2:59 Item: 0 item_armor_shard
+  2:59 Item: 0 item_armor_shard
+  2:59 Item: 0 item_armor_shard
+  2:59 Item: 0 item_armor_combat
+  3:02 Item: 0 item_health_large
+  3:04 Item: 0 weapon_rocketlauncher
+  3:04 Item: 0 ammo_rockets
+  3:06 Item: 0 Rune 12
+  3:06 Item: 0 item_armor_body
+  3:07 Item: 0 Rune 7
+  3:10 Item: 0 ammo_rockets
+  3:11 Item: 0 weapon_rocketlauncher
+  3:13 Item: 0 Rune 1
+  3:14 Item: 0 Rune 12
+  3:15 Item: 0 Rune 7
+  3:17 Item: 0 weapon_rocketlauncher
+  3:19 ShutdownGame:
+  3:19 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:05 KnyteHawkk gave himself a rune: armor
+  0:06 KnyteHawkk gave himself a rune: armor
+  0:12 KnyteHawkk gave himself a rune: health
+  0:13 KnyteHawkk gave himself a rune: health
+  0:15 KnyteHawkk gave himself a rune: health
+  0:19 ShutdownGame:
+  0:19 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:12 KnyteHawkk gave himself a rune: armor
+  0:15 KnyteHawkk gave himself a rune: health
+  0:17 Item: 0 Rune 9
+  0:18 Item: 0 weapon_rocketlauncher
+  0:19 Item: 0 ammo_rockets
+  0:21 Item: 0 item_armor_body
+  0:23 Item: 0 Rune 3
+  0:36 Item: 0 item_armor_shard
+  0:39 Item: 0 weapon_shotgun
+  0:39 Item: 0 Rune 4
+  0:40 Item: 0 ammo_shells
+  0:43 Item: 0 Rune 10
+  0:46 Item: 0 item_armor_body
+  0:49 Item: 0 Rune 11
+  0:55 Item: 0 Rune 11
+  0:55 Item: 0 weapon_rocketlauncher
+  0:56 Item: 0 ammo_rockets
+  0:58 Item: 0 Rune 12
+  1:02 Item: 0 Rune 5
+  1:07 Item: 0 item_quad
+  1:14 Item: 0 Rune 12
+  1:15 Item: 0 Rune 6
+  1:23 Item: 0 Rune 6
+  1:28 Item: 0 Rune 7
+  1:28 Item: 0 ammo_shells
+  1:34 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  1:34 ShutdownGame:
+  1:34 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:08 KnyteHawkk gave himself a rune: flight
+  0:12 KnyteHawkk gave himself a rune: flight
+  0:19 KnyteHawkk gave himself a rune: flight
+  0:30 KnyteHawkk gave himself a rune: flight
+  0:39 Item: 0 item_armor_shard
+  0:39 Item: 0 item_armor_shard
+  0:40 Item: 0 item_armor_combat
+  0:40 Item: 0 item_armor_shard
+  0:41 Item: 0 item_armor_shard
+  0:41 Item: 0 item_armor_shard
+  0:43 Item: 0 weapon_rocketlauncher
+  0:44 Item: 0 ammo_rockets
+  0:46 Item: 0 item_armor_body
+  0:56 KnyteHawkk gave himself a rune: flight
+  1:00 Item: 0 item_armor_shard
+  1:13 Item: 0 item_health_mega
+  1:20 ShutdownGame:
+  1:20 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:05 ShutdownGame:
+  0:05 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:52 KnyteHawkk gave himself a rune: shield
+  0:58 Item: 0 weapon_rocketlauncher
+  0:59 Item: 0 ammo_rockets
+  1:10 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  1:17 KnyteHawkk gave himself a rune: shield
+  1:19 Item: 0 ammo_rockets
+  1:19 Item: 0 weapon_rocketlauncher
+  1:22 Item: 0 item_armor_shard
+  1:22 Item: 0 item_armor_shard
+  1:22 Item: 0 item_armor_shard
+  1:23 Item: 0 item_armor_combat
+  1:29 ShutdownGame:
+  1:29 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 KnyteHawkk gave himself a rune: shield
+  0:06 Item: 0 weapon_rocketlauncher
+  0:06 Item: 0 ammo_rockets
+  0:12 Item: 0 item_armor_shard
+  0:12 Item: 0 item_armor_shard
+  0:12 Item: 0 item_armor_shard
+  0:12 Item: 0 item_armor_combat
+  0:15 Item: 0 weapon_shotgun
+  0:23 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  0:26 KnyteHawkk gave himself a rune: shield
+  0:29 Item: 0 ammo_shells
+  0:29 Item: 0 weapon_shotgun
+  0:32 Item: 0 weapon_rocketlauncher
+  0:35 Item: 0 item_armor_body
+  0:37 Item: 0 weapon_rocketlauncher
+  0:41 ShutdownGame:
+  0:41 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 Item: 0 weapon_rocketlauncher
+  0:04 Item: 0 ammo_rockets
+  0:12 ShutdownGame:
+  0:12 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:06 Item: 0 weapon_rocketlauncher
+  0:06 Item: 0 ammo_rockets
+  0:16 ShutdownGame:
+  0:16 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 Item: 0 weapon_rocketlauncher
+  0:04 Item: 0 ammo_rockets
+  0:57 Item: 0 item_armor_shard
+  0:57 Item: 0 item_armor_shard
+  0:57 Item: 0 item_armor_shard
+  0:57 Item: 0 item_armor_combat
+  3:39 ShutdownGame:
+  3:39 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:09 Item: 0 weapon_rocketlauncher
+  0:09 Item: 0 ammo_rockets
+  0:30 Item: 0 item_health_large
+  0:35 Item: 0 item_health_mega
+  0:41 Item: 0 weapon_rocketlauncher
+  0:41 Item: 0 ammo_rockets
+  0:51 Item: 0 item_armor_body
+  1:13 ShutdownGame:
+  1:13 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 Item: 0 weapon_rocketlauncher
+  0:04 Item: 0 ammo_rockets
+  0:07 Item: 0 item_armor_body
+  0:12 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  0:34 Item: 0 item_armor_body
+  0:39 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  0:44 Item: 0 item_armor_shard
+  0:44 Item: 0 item_armor_shard
+  0:44 Item: 0 item_armor_shard
+  0:44 Item: 0 item_armor_combat
+  0:54 Item: 0 weapon_rocketlauncher
+  0:55 Item: 0 ammo_rockets
+  1:02 Item: 0 item_armor_shard
+  1:02 Item: 0 item_armor_shard
+  1:02 Item: 0 item_armor_shard
+  1:07 ShutdownGame:
+  1:07 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:05 Item: 0 weapon_rocketlauncher
+  0:06 Item: 0 ammo_rockets
+  0:13 Item: 0 item_armor_shard
+  0:13 Item: 0 item_armor_shard
+  0:13 Item: 0 item_armor_shard
+  0:13 Item: 0 item_armor_combat
+  0:16 Item: 0 weapon_rocketlauncher
+  0:16 Item: 0 ammo_rockets
+  0:18 Item: 0 item_armor_body
+  0:20 Item: 0 ammo_slugs
+  0:23 Item: 0 weapon_railgun
+  0:29 Item: 0 weapon_rocketlauncher
+  0:32 Item: 0 ammo_slugs
+  0:34 Item: 0 weapon_railgun
+  0:43 ClientConnect: 1
+  0:43 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  0:43 ClientBegin: 1
+  0:46 Item: 1 item_armor_body
+  0:51 Kill: 0 1 10: KnyteHawkk killed Ranger by MOD_RAILGUN
+  0:53 say: Ranger: Ranger to Base, we're under heavy fire here.
+  0:55 Item: 1 weapon_rocketlauncher
+  0:56 Kill: 0 1 10: KnyteHawkk killed Ranger by MOD_RAILGUN
+  1:00 Item: 0 item_armor_shard
+  1:00 Item: 0 item_armor_shard
+  1:00 Item: 0 item_armor_shard
+  1:00 Item: 0 item_armor_combat
+  1:03 Kill: 0 1 10: KnyteHawkk killed Ranger by MOD_RAILGUN
+  1:20 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  1:22 Item: 0 ammo_rockets
+  1:24 Item: 0 item_armor_body
+  1:26 Item: 1 weapon_rocketlauncher
+  1:26 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  1:26 Item: 0 ammo_rockets
+  1:26 Item: 0 weapon_rocketlauncher
+  1:26 Item: 0 weapon_rocketlauncher
+  1:28 say: Ranger: they're going to be picking up pieces of you in the next county.
+  1:32 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  1:35 Item: 0 weapon_rocketlauncher
+  1:36 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  1:43 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  1:48 Item: 1 weapon_rocketlauncher
+  1:50 Kill: 0 1 3: KnyteHawkk killed Ranger by MOD_MACHINEGUN
+  1:55 ClientConnect: 2
+  1:55 ClientUserinfoChanged: 2 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0
+  1:55 ClientBegin: 2
+  1:57 say: Ranger: Awright!! I OWN dis arena!
+  1:59 Item: 1 weapon_rocketlauncher
+  1:59 Item: 2 weapon_rocketlauncher
+  2:03 Item: 2 item_armor_body
+  2:05 Item: 0 weapon_rocketlauncher
+  2:05 Item: 0 ammo_rockets
+  2:10 Item: 1 weapon_rocketlauncher
+  2:14 Kill: 0 2 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  2:17 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  2:17 Item: 0 weapon_rocketlauncher
+  2:18 Item: 0 weapon_rocketlauncher
+  2:20 Item: 1 ammo_rockets
+  2:22 Item: 1 weapon_rocketlauncher
+  2:22 Item: 0 item_armor_shard
+  2:22 Item: 0 item_armor_shard
+  2:22 Item: 0 item_armor_shard
+  2:22 Item: 0 item_armor_combat
+  2:23 Item: 1 ammo_bullets
+  2:25 Item: 2 ammo_bullets
+  2:26 Item: 0 item_health_large
+  2:26 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  2:27 Item: 0 weapon_rocketlauncher
+  2:29 say: Ranger: Ranger to Base, we're under heavy fire here.
+  2:32 Item: 1 weapon_rocketlauncher
+  2:36 Item: 1 item_armor_body
+  2:42 Item: 0 ammo_slugs
+  2:44 Item: 2 weapon_rocketlauncher
+  2:45 Item: 0 weapon_railgun
+  2:47 Kill: 0 1 10: KnyteHawkk killed Ranger by MOD_RAILGUN
+  2:56 Item: 2 item_health_large
+  2:58 Item: 1 ammo_shells
+  2:59 Kill: 1022 2 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  3:01 say: Ranger: In a blaze of glory! Oh, hell, at least it is a blaze.
+  3:02 Item: 1 item_armor_body
+  3:04 Kill: 2 0 3: Ranger killed KnyteHawkk by MOD_MACHINEGUN
+  3:04 Item: 2 weapon_rocketlauncher
+  3:06 ShutdownGame:
+  3:06 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:07 KnyteHawkk gave himself a rune: teleport
+  0:22 Item: 0 ammo_rockets
+  0:30 Item: 0 weapon_shotgun
+  0:49 Item: 0 item_armor_shard
+  0:49 Item: 0 item_armor_shard
+  0:49 Item: 0 item_armor_shard
+  0:49 Item: 0 item_armor_combat
+  0:52 Item: 0 item_quad
+  0:55 Item: 0 item_health_large
+  0:58 Item: 0 ammo_bullets
+  0:59 Item: 0 weapon_rocketlauncher
+  1:03 ClientConnect: 1
+  1:03 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  1:03 ClientBegin: 1
+  1:04 Item: 0 weapon_rocketlauncher
+  1:05 Item: 1 ammo_rockets
+  1:10 Item: 1 item_armor_body
+  1:27 Item: 1 item_armor_shard
+  1:30 Item: 1 weapon_shotgun
+  1:30 Item: 1 ammo_shells
+  1:36 Item: 1 item_armor_body
+  1:38 Kill: 0 1 18: KnyteHawkk killed Ranger by MOD_TELEFRAG
+  1:38 Item: 0 weapon_shotgun
+  1:40 say: Ranger: I hate portals with a freakin' passion.
+  1:45 Item: 0 weapon_rocketlauncher
+  1:51 Item: 1 ammo_rockets
+  2:01 Item: 1 ammo_shells
+  2:02 Item: 1 weapon_shotgun
+  2:10 Item: 1 weapon_shotgun
+  2:11 Item: 1 ammo_shells
+  2:14 Kill: 0 1 18: KnyteHawkk killed Ranger by MOD_TELEFRAG
+  2:14 Item: 0 weapon_shotgun
+  2:18 Item: 0 item_armor_shard
+  2:19 Item: 0 item_armor_shard
+  2:19 Item: 0 item_armor_shard
+  2:19 Item: 0 item_armor_combat
+  2:19 Item: 1 weapon_shotgun
+  2:23 Item: 0 item_armor_shard
+  2:23 Item: 0 item_armor_shard
+  2:23 Item: 0 item_armor_shard
+  2:30 Item: 1 ammo_bullets
+  2:32 Item: 0 weapon_rocketlauncher
+  2:34 Item: 1 item_armor_body
+  2:40 Item: 1 weapon_rocketlauncher
+  2:43 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  2:45 Item: 0 ammo_rockets
+  2:48 Item: 1 ammo_rockets
+  2:49 Item: 1 weapon_rocketlauncher
+  2:56 Item: 1 weapon_rocketlauncher
+  3:08 Item: 1 item_armor_body
+  3:14 Item: 1 weapon_rocketlauncher
+  3:18 Item: 1 item_health_large
+  3:32 Item: 1 weapon_rocketlauncher
+  3:40 Item: 1 ammo_bullets
+  3:54 Kill: 0 1 18: KnyteHawkk killed Ranger by MOD_TELEFRAG
+  3:54 Item: 0 weapon_rocketlauncher
+  3:55 Item: 0 item_armor_body
+  4:00 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  4:02 say: Ranger: Now that I have demonstrated how NOT to do it ...
+  4:05 Item: 1 ammo_rockets
+  4:07 Item: 1 weapon_rocketlauncher
+  4:11 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  4:21 Item: 1 weapon_rocketlauncher
+  4:25 Item: 1 ammo_bullets
+  4:38 Kill: 0 1 18: KnyteHawkk killed Ranger by MOD_TELEFRAG
+  4:38 Item: 0 weapon_rocketlauncher
+  4:41 Item: 0 ammo_rockets
+  4:42 Item: 1 weapon_rocketlauncher
+  4:47 Item: 1 ammo_bullets
+  4:52 Item: 1 item_armor_body
+  5:01 Item: 1 weapon_rocketlauncher
+  5:04 Kill: 0 1 18: KnyteHawkk killed Ranger by MOD_TELEFRAG
+  5:04 Item: 0 weapon_rocketlauncher
+  5:07 ShutdownGame:
+  5:07 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 Item: 0 weapon_rocketlauncher
+  0:04 Item: 0 ammo_rockets
+  0:10 KnyteHawkk gave himself a rune: switch
+  0:14 ClientConnect: 1
+  0:14 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  0:14 ClientBegin: 1
+  0:19 ShutdownGame:
+  0:19 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:06 KnyteHawkk gave himself a rune: switch
+  0:11 ClientConnect: 1
+  0:11 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  0:11 ClientBegin: 1
+  0:12 Item: 1 ammo_bullets
+  0:13 ShutdownGame:
+  0:13 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 ClientConnect: 1
+  0:04 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  0:04 ClientBegin: 1
+  0:07 KnyteHawkk gave himself a rune: switch
+  0:08 ShutdownGame:
+  0:08 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:06 ClientConnect: 1
+  0:06 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  0:06 ClientBegin: 1
+  0:07 Item: 0 weapon_rocketlauncher
+  0:08 Item: 0 ammo_rockets
+  0:08 Item: 1 ammo_rockets
+  0:11 Item: 1 ammo_bullets
+  0:13 Item: 1 weapon_rocketlauncher
+  0:16 Item: 1 item_armor_body
+  0:25 Kill: 0 1 3: KnyteHawkk killed Ranger by MOD_MACHINEGUN
+  0:27 Item: 0 Rune 5
+  0:35 Item: 1 weapon_rocketlauncher
+  0:36 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  0:43 Item: 1 weapon_rocketlauncher
+  0:45 Item: 1 item_armor_body
+  0:48 Item: 0 weapon_rocketlauncher
+  0:50 Item: 1 item_health_large
+  0:52 Item: 1 Rune 11
+  0:52 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  0:53 Item: 0 Rune 17
+  0:55 say: Ranger: So your momma's apron proved to be good armor. Big deal.
+  1:02 Item: 1 ammo_bullets
+  1:06 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  1:10 Item: 1 weapon_rocketlauncher
+  1:10 Item: 0 item_armor_shard
+  1:10 Item: 0 item_armor_shard
+  1:11 Item: 0 item_armor_shard
+  1:13 Item: 0 ammo_rockets
+  1:17 Kill: 0 1 18: KnyteHawkk killed Ranger by MOD_TELEFRAG
+  1:17 Item: 0 weapon_rocketlauncher
+  1:23 Item: 1 weapon_rocketlauncher
+  1:27 ShutdownGame:
+  1:27 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:06 Item: 0 ammo_rockets
+  0:08 ClientConnect: 1
+  0:08 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  0:08 ClientBegin: 1
+  0:10 Item: 1 ammo_rockets
+  0:11 Item: 1 weapon_rocketlauncher
+  0:11 Item: 0 weapon_railgun
+  0:13 Item: 1 ammo_bullets
+  0:16 Item: 1 item_armor_body
+  0:28 Item: 0 weapon_rocketlauncher
+  0:39 Item: 1 weapon_rocketlauncher
+  0:42 Item: 0 item_armor_body
+  0:55 Item: 0 ammo_slugs
+  0:59 Item: 1 weapon_rocketlauncher
+  1:00 Item: 0 weapon_railgun
+  1:00 Item: 1 ammo_bullets
+  1:10 Item: 1 item_armor_body
+  1:15 Item: 1 ammo_rockets
+  1:30 Item: 1 weapon_rocketlauncher
+  1:36 Item: 1 weapon_shotgun
+  1:37 Item: 1 ammo_shells
+  1:43 Item: 0 weapon_railgun
+  1:43 Item: 1 ammo_shells
+  1:43 Item: 1 weapon_shotgun
+  1:49 Item: 1 item_health_large
+  1:51 Item: 0 item_armor_shard
+  1:51 Item: 0 item_armor_shard
+  1:53 Item: 1 ammo_rockets
+  1:55 Item: 1 weapon_rocketlauncher
+  1:58 Item: 1 item_armor_body
+  2:13 Item: 1 ammo_rockets
+  2:15 Item: 1 weapon_rocketlauncher
+  2:15 Item: 0 weapon_rocketlauncher
+  2:21 Item: 1 item_health_large
+  2:29 Item: 0 ammo_slugs
+  2:30 Item: 0 ammo_slugs
+  2:46 Item: 1 weapon_rocketlauncher
+  2:55 Item: 1 ammo_shells
+  2:56 Item: 1 weapon_shotgun
+  2:57 Kill: 1 0 32: Ranger killed KnyteHawkk by MOD_RUNE_REFLECTION_RAIL
+  2:57 Item: 1 weapon_railgun
+  3:01 Item: 1 item_armor_shard
+  3:02 Item: 1 item_armor_shard
+  3:02 Item: 1 item_armor_shard
+  3:02 Item: 1 item_armor_combat
+  3:19 Item: 0 weapon_rocketlauncher
+  3:20 Item: 0 ammo_rockets
+  3:26 Item: 0 ammo_bullets
+  3:35 Kill: 0 1 3: KnyteHawkk killed Ranger by MOD_MACHINEGUN
+  3:37 say: Ranger: Okay, knytehawkk, I'd salute you ... if I could find my head!
+  3:40 Item: 0 ammo_shells
+  3:40 Item: 0 weapon_shotgun
+  3:40 Item: 1 item_armor_shard
+  3:40 Item: 1 item_armor_shard
+  3:40 Item: 1 item_armor_shard
+  3:41 Item: 1 item_armor_combat
+  3:41 Kill: 1 0 31: Ranger killed KnyteHawkk by MOD_RUNE_REFLECTION_BULLET
+  3:43 Item: 1 weapon_shotgun
+  3:44 Item: 1 ammo_shells
+  3:44 Item: 0 ammo_rockets
+  3:45 Item: 0 weapon_rocketlauncher
+  3:49 Item: 1 item_health_large
+  3:52 Item: 1 weapon_rocketlauncher
+  3:59 Item: 1 weapon_rocketlauncher
+  4:01 Item: 1 ammo_bullets
+  4:04 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  4:05 Item: 0 weapon_rocketlauncher
+  4:06 say: Ranger: Pin me up and call me a target. An outstanding shot, knytehawkk.
+  4:08 Item: 1 weapon_rocketlauncher
+  4:10 Item: 1 item_armor_body
+  4:11 Item: 0 ammo_rockets
+  4:13 Item: 0 Rune 16
+  4:14 Item: 1 weapon_rocketlauncher
+  4:15 Item: 0 weapon_rocketlauncher
+  4:22 Item: 0 item_armor_shard
+  4:22 Item: 0 item_armor_shard
+  4:23 Item: 0 item_armor_shard
+  4:23 Item: 0 item_armor_combat
+  4:24 Item: 1 item_armor_shard
+  4:24 Item: 1 item_armor_shard
+  4:24 Item: 1 item_armor_shard
+  4:29 Item: 1 ammo_rockets
+  4:30 Item: 0 weapon_rocketlauncher
+  4:31 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  4:33 Item: 0 Rune 20
+  4:33 Item: 0 weapon_rocketlauncher
+  4:33 say: Ranger: So your momma's apron proved to be good armor. Big deal.
+  4:35 Item: 1 weapon_rocketlauncher
+  4:42 Item: 1 item_armor_body
+  4:44 Item: 1 ammo_slugs
+  4:44 Item: 0 weapon_rocketlauncher
+  4:47 Kill: 1 0 6: Ranger killed KnyteHawkk by MOD_ROCKET
+  4:51 Item: 0 weapon_rocketlauncher
+  4:53 Item: 0 ammo_rockets
+  4:54 Item: 1 weapon_rocketlauncher
+  5:02 Item: 0 weapon_rocketlauncher
+  5:09 Item: 1 item_health_large
+  5:14 Item: 1 weapon_rocketlauncher
+  5:16 Item: 1 item_armor_body
+  5:20 Item: 1 ammo_rockets
+  5:22 Item: 0 item_health_large
+  5:29 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  5:29 Item: 0 weapon_rocketlauncher
+  5:29 Item: 0 Rune 13
+  5:30 Item: 0 weapon_rocketlauncher
+  5:31 say: Ranger: Hah! That only makes me stronger, knytehawkk!
+  5:34 Item: 1 weapon_rocketlauncher
+  5:36 Item: 1 ammo_bullets
+  5:42 Item: 0 item_armor_body
+  5:46 Item: 1 weapon_rocketlauncher
+  5:47 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  5:47 Kill: 1 0 6: Ranger killed KnyteHawkk by MOD_ROCKET
+  5:52 ShutdownGame:
+  5:52 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 weapon_rocketlauncher
+  0:04 Item: 0 ammo_rockets
+  0:10 Item: 0 item_armor_shard
+  0:10 Item: 0 item_armor_shard
+  0:10 Item: 0 item_armor_shard
+  0:11 Item: 0 item_armor_combat
+  0:19 Item: 0 ammo_rockets
+  0:46 Item: 0 item_health_mega
+  1:01 Item: 0 item_quad
+  1:04 Item: 0 ammo_bullets
+  1:09 Item: 0 weapon_rocketlauncher
+  1:09 Item: 0 ammo_rockets
+  1:11 Item: 0 item_armor_body
+  1:13 Item: 0 weapon_rocketlauncher
+  1:15 Item: 0 ammo_bullets
+  1:19 Item: 0 item_armor_shard
+  1:19 Item: 0 item_armor_shard
+  1:19 Item: 0 item_armor_shard
+  1:19 Item: 0 item_armor_combat
+  1:35 ShutdownGame:
+  1:35 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 weapon_rocketlauncher
+  0:03 Item: 0 ammo_rockets
+  0:54 Item: 0 item_quad
+  0:58 Kill: 0 0 7: KnyteHawkk killed KnyteHawkk by MOD_ROCKET_SPLASH
+  1:11 Item: 0 weapon_rocketlauncher
+  1:12 Item: 0 item_quad
+  1:14 Item: 0 weapon_rocketlauncher
+  1:15 Item: 0 ammo_rockets
+  1:17 Item: 0 Rune 11
+  1:17 Item: 0 item_armor_body
+  1:23 Kill: 0 0 7: KnyteHawkk killed KnyteHawkk by MOD_ROCKET_SPLASH
+  1:32 Item: 0 weapon_rocketlauncher
+  1:35 Item: 0 item_quad
+  1:38 Kill: 0 0 7: KnyteHawkk killed KnyteHawkk by MOD_ROCKET_SPLASH
+  1:50 Item: 0 item_quad
+  1:52 Item: 0 item_quad
+  1:53 Item: 0 weapon_rocketlauncher
+  1:56 Item: 0 item_armor_shard
+  1:56 Item: 0 item_armor_shard
+  1:56 Item: 0 item_armor_shard
+  1:56 Item: 0 item_armor_combat
+  2:03 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  2:07 Item: 0 Rune 16
+  2:08 Item: 0 ammo_shells
+  2:09 Item: 0 weapon_shotgun
+  2:14 Item: 0 weapon_rocketlauncher
+  2:14 Item: 0 ammo_rockets
+  2:16 Item: 0 item_armor_body
+  2:16 Item: 0 Rune 5
+  2:18 Item: 0 ammo_rockets
+  2:18 Item: 0 weapon_rocketlauncher
+  2:19 Item: 0 Rune 5
+  2:22 Item: 0 item_armor_shard
+  2:22 Item: 0 item_armor_shard
+  2:22 Item: 0 item_armor_shard
+  2:24 Item: 0 Rune 17
+  2:25 Item: 0 weapon_shotgun
+  2:28 Item: 0 weapon_railgun
+  2:48 Item: 0 item_quad
+  3:04 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  3:07 ShutdownGame:
+  3:07 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:07 KnyteHawkk gave himself a rune: impact
+  0:10 ClientConnect: 1
+  0:10 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  0:10 ClientBegin: 1
+  0:12 Item: 1 weapon_rocketlauncher
+  0:12 Item: 0 item_armor_body
+  0:14 Item: 1 ammo_bullets
+  0:14 Item: 0 ammo_rockets
+  0:19 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  0:19 Item: 0 weapon_rocketlauncher
+  0:22 Item: 1 ammo_rockets
+  0:24 Item: 0 item_armor_shard
+  0:24 Item: 0 item_armor_shard
+  0:24 Item: 0 item_armor_shard
+  0:24 Item: 0 item_armor_combat
+  0:26 Item: 1 weapon_rocketlauncher
+  0:29 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  0:32 say: Ranger: In a blaze of glory! Oh, hell, at least it's a blaze.
+  0:37 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  0:45 Item: 1 weapon_rocketlauncher
+  0:55 Item: 1 ammo_bullets
+  0:59 Item: 1 ammo_shells
+  0:59 Item: 1 weapon_shotgun
+  1:07 Item: 1 item_armor_body
+  1:12 Item: 0 weapon_rocketlauncher
+  1:12 Item: 0 ammo_rockets
+  1:16 Item: 1 ammo_rockets
+  1:17 Item: 0 weapon_rocketlauncher
+  1:20 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  1:25 Item: 1 weapon_rocketlauncher
+  1:25 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  1:27 Item: 0 weapon_rocketlauncher
+  1:28 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  1:30 say: Ranger: Okay, knytehawkk, I'd salute you ... if I could find my head!
+  1:33 Item: 1 weapon_rocketlauncher
+  1:36 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  1:40 Item: 1 weapon_rocketlauncher
+  1:40 Item: 0 item_armor_shard
+  1:43 Kill: 0 1 34: KnyteHawkk killed Ranger by MOD_RUNE_IMPACT
+  1:43 Item: 0 weapon_rocketlauncher
+  1:53 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  1:56 Item: 0 ammo_rockets
+  1:57 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  1:59 say: Ranger: Ranger to Base, we're under heavy fire here.
+  2:00 Item: 0 item_armor_shard
+  2:00 Item: 0 item_armor_shard
+  2:01 Item: 0 item_armor_combat
+  2:02 Item: 1 weapon_rocketlauncher
+  2:03 Kill: 0 1 34: KnyteHawkk killed Ranger by MOD_RUNE_IMPACT
+  2:03 Item: 0 weapon_rocketlauncher
+  2:07 Item: 0 weapon_rocketlauncher
+  2:11 Kill: 0 1 34: KnyteHawkk killed Ranger by MOD_RUNE_IMPACT
+  2:19 Item: 1 weapon_rocketlauncher
+  2:26 Item: 1 weapon_shotgun
+  2:27 Item: 1 ammo_shells
+  2:28 Kill: 0 1 34: KnyteHawkk killed Ranger by MOD_RUNE_IMPACT
+  2:28 Item: 0 weapon_rocketlauncher
+  2:33 Item: 1 weapon_rocketlauncher
+  2:34 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  2:36 ShutdownGame:
+  2:36 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 Item: 0 weapon_rocketlauncher
+  0:03 Item: 0 ammo_rockets
+  0:07 Item: 0 weapon_rocketlauncher
+  0:10 Item: 0 weapon_shotgun
+  0:10 Item: 0 ammo_shells
+  0:12 Item: 0 item_health_large
+  0:15 Item: 0 item_armor_shard
+  0:15 Item: 0 item_armor_shard
+  0:15 Item: 0 item_armor_shard
+  0:15 Item: 0 item_armor_combat
+  0:21 Item: 0 item_health_large
+  0:24 Item: 0 weapon_rocketlauncher
+  0:35 Item: 0 weapon_rocketlauncher
+  0:39 Item: 0 item_health_mega
+  1:01 Item: 0 item_quad
+  1:27 ShutdownGame:
+  1:27 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:09 ShutdownGame:
+  0:09 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:07 KnyteHawkk gave himself a rune: flash
+  0:09 Item: 0 weapon_rocketlauncher
+  0:10 Item: 0 ammo_rockets
+  1:04 Item: 0 item_armor_shard
+  1:04 Item: 0 item_armor_shard
+  1:04 Item: 0 item_armor_shard
+  1:04 Item: 0 item_armor_combat
+  1:06 Item: 0 ammo_shells
+  1:32 Item: 0 item_health_large
+  1:35 Item: 0 weapon_rocketlauncher
+  1:35 Item: 0 ammo_rockets
+  1:47 ShutdownGame:
+  1:47 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:03 KnyteHawkk gave himself a rune: flash
+  0:06 Item: 0 weapon_rocketlauncher
+  0:06 Item: 0 ammo_rockets
+  0:22 Item: 0 item_armor_shard
+  0:22 Item: 0 item_armor_shard
+  0:22 Item: 0 item_armor_shard
+  0:22 Item: 0 item_armor_combat
+  0:25 Item: 0 ammo_shells
+  0:26 Item: 0 weapon_shotgun
+  0:50 ShutdownGame:
+  0:50 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:05 KnyteHawkk gave himself a rune: disarm
+  0:09 Item: 0 weapon_rocketlauncher
+  0:09 Item: 0 ammo_rockets
+  0:14 ClientConnect: 1
+  0:14 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\50\w\0\l\0\skill\ 1.00\tt\0\tl\0
+  0:14 ClientBegin: 1
+  0:15 Item: 1 item_health_large
+  0:18 Item: 0 weapon_rocketlauncher
+  0:20 Item: 1 item_armor_body
+  0:24 Item: 1 ammo_rockets
+  0:27 Item: 1 ammo_bullets
+  0:30 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  0:31 ClientDisconnect: 1
+  0:35 ClientConnect: 1
+  0:35 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0
+  0:35 ClientBegin: 1
+  0:39 Item: 0 item_armor_shard
+  0:39 Item: 0 item_armor_shard
+  0:39 Item: 0 item_armor_shard
+  0:39 Item: 0 item_armor_combat
+  0:43 Item: 0 weapon_rocketlauncher
+  0:45 Item: 0 item_armor_body
+  0:47 Item: 1 weapon_rocketlauncher
+  0:49 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  0:51 say: Ranger: Full on LUCK!
+  0:52 Item: 1 item_health_large
+  0:54 Item: 1 ammo_shells
+  0:54 Item: 1 weapon_shotgun
+  1:00 Item: 1 ammo_shells
+  1:01 Kill: 1 0 1: Ranger killed KnyteHawkk by MOD_SHOTGUN
+  1:03 Item: 1 weapon_rocketlauncher
+  1:05 Item: 1 weapon_rocketlauncher
+  1:08 KnyteHawkk gave himself a rune: disarm
+  1:08 Kill: 1 0 6: Ranger killed KnyteHawkk by MOD_ROCKET
+  1:11 Item: 1 weapon_rocketlauncher
+  1:11 KnyteHawkk gave himself a rune: disarm
+  1:12 Item: 1 ammo_rockets
+  1:15 Item: 1 ammo_bullets
+  1:17 Item: 1 weapon_rocketlauncher
+  1:22 Kill: 1 0 7: Ranger killed KnyteHawkk by MOD_ROCKET_SPLASH
+  1:24 KnyteHawkk gave himself a rune: disarm
+  1:27 Item: 0 ammo_rockets
+  1:28 Item: 0 weapon_rocketlauncher
+  1:32 Item: 0 item_armor_shard
+  1:32 Item: 0 item_armor_shard
+  1:32 Item: 0 item_armor_shard
+  1:35 Item: 0 weapon_rocketlauncher
+  1:35 Item: 1 item_armor_body
+  1:39 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  1:41 say: Ranger: Now that I have demonstrated how NOT to do it ...
+  1:43 Item: 0 item_armor_shard
+  1:43 Item: 0 item_armor_shard
+  1:43 Item: 0 item_armor_shard
+  1:43 Item: 0 item_armor_combat
+  1:43 Item: 1 weapon_rocketlauncher
+  1:45 Item: 1 ammo_bullets
+  1:49 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  1:49 Item: 0 item_health_large
+  1:51 Item: 0 weapon_rocketlauncher
+  2:00 Item: 1 weapon_rocketlauncher
+  2:06 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  2:08 Item: 0 weapon_rocketlauncher
+  2:13 Item: 0 item_armor_shard
+  2:13 Item: 1 ammo_rockets
+  2:13 Item: 0 item_armor_shard
+  2:13 Item: 0 item_armor_shard
+  2:14 Item: 0 item_armor_combat
+  2:16 Item: 0 item_health_large
+  2:19 Item: 0 item_armor_shard
+  2:20 Item: 0 item_armor_shard
+  2:20 Item: 0 item_armor_shard
+  2:25 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  2:27 say: Ranger: Best trophy you will ever get, scumbag.
+  2:29 Item: 1 ammo_rockets
+  2:30 Item: 1 weapon_rocketlauncher
+  2:35 Item: 1 ammo_shells
+  2:37 Item: 0 weapon_shotgun
+  2:38 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  2:43 Item: 1 weapon_rocketlauncher
+  2:43 Item: 0 item_health_large
+  2:44 Item: 0 weapon_rocketlauncher
+  2:45 Item: 1 ammo_bullets
+  2:47 Item: 0 item_armor_body
+  2:57 Item: 0 item_armor_shard
+  2:57 Item: 0 item_armor_shard
+  2:57 Item: 0 item_armor_shard
+  2:57 Item: 0 item_armor_combat
+  3:01 Item: 1 weapon_rocketlauncher
+  3:02 Kill: 0 1 1: KnyteHawkk killed Ranger by MOD_SHOTGUN
+  3:07 Item: 0 weapon_rocketlauncher
+  3:08 Item: 0 ammo_rockets
+  3:10 Item: 1 ammo_slugs
+  3:11 Item: 1 ammo_slugs
+  3:13 Item: 0 weapon_railgun
+  3:15 Item: 1 item_armor_body
+  3:17 Item: 0 ammo_rockets
+  3:20 Item: 0 item_health_large
+  3:22 Item: 1 weapon_rocketlauncher
+  3:34 Item: 1 ammo_bullets
+  3:50 Item: 0 item_armor_shard
+  3:50 Item: 0 item_armor_shard
+  3:50 Item: 0 item_armor_shard
+  3:50 Item: 0 item_armor_combat
+  3:58 Item: 1 item_health_large
+  4:01 KnyteHawkk gave himself a rune: emp
+  4:03 Item: 0 weapon_rocketlauncher
+  4:03 Item: 0 ammo_rockets
+  4:07 Item: 1 ammo_rockets
+  4:09 Item: 1 weapon_rocketlauncher
+  4:11 Item: 1 item_armor_body
+  4:16 Item: 0 weapon_rocketlauncher
+  4:25 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  4:31 Item: 1 weapon_rocketlauncher
+  4:35 Item: 1 ammo_slugs
+  4:37 Kill: 1 0 2: Ranger killed KnyteHawkk by MOD_GAUNTLET
+  4:37 Item: 1 weapon_rocketlauncher
+  4:39 ShutdownGame:
+  4:39 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:07 KnyteHawkk gave himself a rune: disarm
+  0:12 ClientConnect: 1
+  0:12 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0
+  0:12 ClientBegin: 1
+  0:14 Item: 1 weapon_rocketlauncher
+  0:15 ClientConnect: 2
+  0:15 ClientUserinfoChanged: 2 n\Mynx\t\0\model\mynx\hmodel\mynx\c1\4\c2\5\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0
+  0:15 ClientBegin: 2
+  0:17 Item: 0 weapon_rocketlauncher
+  0:17 Item: 2 ammo_rockets
+  0:17 Item: 0 ammo_rockets
+  0:19 Item: 2 ammo_bullets
+  0:21 Item: 0 item_armor_shard
+  0:21 Item: 0 item_armor_shard
+  0:21 Item: 0 item_armor_shard
+  0:21 Item: 0 item_armor_combat
+  0:24 Item: 0 weapon_rocketlauncher
+  0:27 Item: 2 item_health_large
+  0:29 Item: 1 weapon_rocketlauncher
+  0:32 Item: 1 item_armor_body
+  0:39 Kill: 0 2 7: KnyteHawkk killed Mynx by MOD_ROCKET_SPLASH
+  0:40 Item: 0 weapon_rocketlauncher
+  0:42 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  0:46 Item: 1 weapon_rocketlauncher
+  0:49 Item: 0 item_health_large
+  0:53 Kill: 0 2 7: KnyteHawkk killed Mynx by MOD_ROCKET_SPLASH
+  0:55 say: Mynx: Finally, someone who knows how to handle their weapon!
+  0:57 Item: 0 weapon_rocketlauncher
+  0:58 Item: 2 weapon_rocketlauncher
+  0:58 Item: 2 ammo_rockets
+  1:02 Item: 0 weapon_rocketlauncher
+  1:03 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  1:05 say: Ranger: Ranger to Base, we're under heavy fire here.
+  1:05 Item: 2 item_armor_body
+  1:10 Item: 0 weapon_rocketlauncher
+  1:15 Item: 2 weapon_rocketlauncher
+  1:15 Kill: 2 0 7: Mynx killed KnyteHawkk by MOD_ROCKET_SPLASH
+  1:15 Item: 2 weapon_rocketlauncher
+  1:18 Item: 0 ammo_rockets
+  1:19 Item: 0 weapon_rocketlauncher
+  1:19 ClientConnect: 3
+  1:19 ClientUserinfoChanged: 3 n\Mynx\t\0\model\mynx\hmodel\mynx\c1\4\c2\5\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0
+  1:19 ClientBegin: 3
+  1:21 KnyteHawkk gave himself a rune: disarm
+  1:22 Item: 3 ammo_bullets
+  1:25 Item: 0 item_armor_shard
+  1:25 Item: 0 item_armor_shard
+  1:25 Item: 0 item_armor_shard
+  1:25 Item: 0 item_armor_combat
+  1:28 Item: 0 item_health_large
+  1:29 Kill: 3 1 3: Mynx killed Ranger by MOD_MACHINEGUN
+  1:31 say: Ranger: Ranger to Base, we're under heavy fire here.
+  1:32 Item: 3 weapon_rocketlauncher
+  1:36 Item: 2 weapon_rocketlauncher
+  1:36 Kill: 3 1 7: Mynx killed Ranger by MOD_ROCKET_SPLASH
+  1:38 Kill: 2 3 6: Mynx killed Mynx by MOD_ROCKET
+  1:40 Item: 1 weapon_rocketlauncher
+  1:43 Item: 0 item_health_large
+  1:46 Item: 0 weapon_rocketlauncher
+  1:47 Item: 1 item_armor_body
+  1:48 Kill: 0 0 7: KnyteHawkk killed KnyteHawkk by MOD_ROCKET_SPLASH
+  1:49 Item: 3 weapon_rocketlauncher
+  1:51 Kill: 3 2 7: Mynx killed Mynx by MOD_ROCKET_SPLASH
+  1:51 KnyteHawkk gave himself a rune: disarm
+  1:52 Item: 1 weapon_rocketlauncher
+  1:54 Kill: 1 3 7: Ranger killed Mynx by MOD_ROCKET_SPLASH
+  1:54 Item: 0 ammo_shells
+  1:55 Item: 0 weapon_shotgun
+  1:56 Item: 2 weapon_rocketlauncher
+  1:57 Item: 1 weapon_rocketlauncher
+  1:58 Item: 0 weapon_rocketlauncher
+  1:59 Kill: 0 3 1: KnyteHawkk killed Mynx by MOD_SHOTGUN
+  2:01 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  2:01 Item: 0 weapon_rocketlauncher
+  2:01 say: Mynx: My corpse, is the best you'll ever get, knytehawkk.
+  2:02 Item: 0 ammo_rockets
+  2:03 say: Ranger: I did that on purpose.
+  2:05 Item: 1 weapon_rocketlauncher
+  2:06 Item: 1 ammo_rockets
+  2:08 Kill: 1 0 6: Ranger killed KnyteHawkk by MOD_ROCKET
+  2:09 Item: 2 weapon_rocketlauncher
+  2:11 KnyteHawkk gave himself a rune: disarm
+  2:12 Item: 3 item_armor_body
+  2:14 Kill: 1 2 7: Ranger killed Mynx by MOD_ROCKET_SPLASH
+  2:14 Item: 3 weapon_rocketlauncher
+  2:16 say: Mynx: Mmmmmm, you get a lot of mileage out of your tiny gun.
+  2:17 Item: 0 item_health_large
+  2:18 Kill: 3 1 6: Mynx killed Ranger by MOD_ROCKET
+  2:19 Item: 2 weapon_rocketlauncher
+  2:20 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  2:20 Item: 1 ammo_bullets
+  2:22 Item: 3 weapon_rocketlauncher
+  2:23 KnyteHawkk gave himself a rune: disarm
+  2:23 Item: 1 weapon_rocketlauncher
+  2:28 Item: 0 ammo_shells
+  2:28 Item: 0 weapon_shotgun
+  2:30 Kill: 1 3 7: Ranger killed Mynx by MOD_ROCKET_SPLASH
+  2:31 Item: 0 item_armor_shard
+  2:31 Item: 0 item_armor_shard
+  2:31 Item: 0 item_armor_shard
+  2:31 Item: 0 item_armor_combat
+  2:34 Item: 0 weapon_rocketlauncher
+  2:37 Kill: 1 3 6: Ranger killed Mynx by MOD_ROCKET
+  2:37 Kill: 1 2 7: Ranger killed Mynx by MOD_ROCKET_SPLASH
+  2:38 Item: 1 weapon_rocketlauncher
+  2:40 Item: 1 item_armor_body
+  2:41 Item: 2 weapon_rocketlauncher
+  2:42 Item: 0 item_armor_shard
+  2:42 Item: 0 item_armor_shard
+  2:42 Item: 0 item_armor_shard
+  2:43 Kill: 2 1 7: Mynx killed Ranger by MOD_ROCKET_SPLASH
+  2:45 Item: 0 weapon_rocketlauncher
+  2:46 Kill: 1022 2 22: <world> killed Mynx by MOD_TRIGGER_HURT
+  2:49 Item: 3 ammo_rockets
+  2:50 Item: 2 ammo_rockets
+  2:51 Kill: 0 3 7: KnyteHawkk killed Mynx by MOD_ROCKET_SPLASH
+  2:52 Item: 2 weapon_rocketlauncher
+  2:55 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  2:55 Item: 0 weapon_rocketlauncher
+  2:59 Item: 1 weapon_rocketlauncher
+  3:05 Item: 0 weapon_rocketlauncher
+  3:05 Kill: 2 3 6: Mynx killed Mynx by MOD_ROCKET
+  3:05 Kill: 1 2 6: Ranger killed Mynx by MOD_ROCKET
+  3:06 Kill: 0 1 6: KnyteHawkk killed Ranger by MOD_ROCKET
+  3:07 say: Mynx: My corpse, is the best you'll ever get, mynx.
+  3:08 say: Mynx: When I said, 'Over my dead body,' this wasn't what I meant.
+  3:09 Item: 3 weapon_rocketlauncher
+  3:10 Kill: 3 2 7: Mynx killed Mynx by MOD_ROCKET_SPLASH
+  3:10 Item: 0 item_armor_shard
+  3:10 Item: 0 item_armor_shard
+  3:10 Item: 0 item_armor_shard
+  3:11 Item: 0 item_armor_combat
+  3:11 Item: 3 item_armor_body
+  3:13 Item: 0 item_health_large
+  3:14 Item: 2 weapon_rocketlauncher
+  3:15 Kill: 2 1 7: Mynx killed Ranger by MOD_ROCKET_SPLASH
+  3:17 Item: 0 item_armor_shard
+  3:17 say: Ranger: Ranger to Base, we're under heavy fire here.
+  3:17 Item: 0 item_armor_shard
+  3:17 Item: 0 item_armor_shard
+  3:18 Kill: 2 3 6: Mynx killed Mynx by MOD_ROCKET
+  3:20 Item: 2 weapon_rocketlauncher
+  3:21 Item: 0 item_health_large
+  3:24 Item: 0 weapon_shotgun
+  3:24 Item: 1 item_quad
+  3:28 Kill: 1022 3 22: <world> killed Mynx by MOD_TRIGGER_HURT
+  3:30 Item: 3 ammo_bullets
+  3:33 Item: 3 weapon_rocketlauncher
+  3:34 Item: 3 ammo_rockets
+  3:37 Kill: 1 2 2: Ranger killed Mynx by MOD_GAUNTLET
+  3:37 Item: 0 item_armor_shard
+  3:37 Item: 0 item_armor_shard
+  3:37 Item: 0 item_armor_shard
+  3:37 Kill: 3 3 7: Mynx killed Mynx by MOD_ROCKET_SPLASH
+  3:38 Item: 1 weapon_rocketlauncher
+  3:39 Item: 1 weapon_rocketlauncher
+  3:39 say: Mynx: I figured I'd take care of myself, since I know you couldn't do it.
+  3:39 Item: 0 weapon_shotgun
+  3:40 Item: 0 ammo_shells
+  3:41 Kill: 1 3 7: Ranger killed Mynx by MOD_ROCKET_SPLASH
+  3:43 Item: 0 weapon_rocketlauncher
+  3:44 Item: 0 ammo_rockets
+  3:44 Kill: 1 2 6: Ranger killed Mynx by MOD_ROCKET
+  3:46 say: Mynx: I like a man that shoots hard and shoots straight.
+  3:47 Item: 3 item_armor_body
+  3:48 Item: 2 weapon_rocketlauncher
+  3:49 Kill: 2 1 7: Mynx killed Ranger by MOD_ROCKET_SPLASH
+  3:50 Item: 0 weapon_rocketlauncher
+  3:52 Kill: 2 3 7: Mynx killed Mynx by MOD_ROCKET_SPLASH
+  3:52 Kill: 1 0 3: Ranger killed KnyteHawkk by MOD_MACHINEGUN
+  3:55 Item: 1 weapon_rocketlauncher
+  3:56 Item: 2 weapon_rocketlauncher
+  3:57 KnyteHawkk gave himself a rune: disarm
+  3:57 Item: 1 item_health_large
+  3:58 Item: 0 weapon_rocketlauncher
+  3:58 Item: 1 item_quad
+  3:58 Kill: 2 3 7: Mynx killed Mynx by MOD_ROCKET_SPLASH
+  4:01 Kill: 1 2 7: Ranger killed Mynx by MOD_ROCKET_SPLASH
+  4:02 Item: 3 weapon_rocketlauncher
+  4:03 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  4:05 Item: 2 weapon_rocketlauncher
+  4:07 Item: 3 weapon_rocketlauncher
+  4:09 Item: 1 weapon_rocketlauncher
+  4:09 Kill: 1 3 6: Ranger killed Mynx by MOD_ROCKET
+  4:11 say: Mynx: When I said, 'Over my dead body,' this wasn't what I meant.
+  4:14 Item: 3 item_armor_body
+  4:15 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  4:18 Item: 3 ammo_rockets
+  4:19 Item: 3 weapon_rocketlauncher
+  4:23 Kill: 3 1 6: Mynx killed Ranger by MOD_ROCKET
+  4:27 Item: 2 ammo_slugs
+  4:28 Item: 3 item_armor_shard
+  4:28 Item: 3 item_armor_shard
+  4:28 Item: 3 item_armor_shard
+  4:28 Item: 3 item_armor_combat
+  4:29 Kill: 3 0 6: Mynx killed KnyteHawkk by MOD_ROCKET
+  4:30 Item: 1 ammo_slugs
+  4:31 Item: 3 item_armor_shard
+  4:31 Item: 3 item_armor_shard
+  4:31 Item: 3 item_armor_shard
+  4:35 Item: 2 ammo_bullets
+  4:36 Item: 3 weapon_rocketlauncher
+  4:37 KnyteHawkk gave himself a rune: disarm
+  4:40 Item: 2 item_armor_body
+  4:42 Item: 0 ammo_shells
+  4:43 Kill: 2 1 3: Mynx killed Ranger by MOD_MACHINEGUN
+  4:43 Item: 0 weapon_shotgun
+  4:44 Kill: 3 2 6: Mynx killed Mynx by MOD_ROCKET
+  4:45 Item: 3 weapon_rocketlauncher
+  4:46 say: Mynx: Figures. Fragged on the day I don't wear clean underwear.
+  4:47 Item: 1 ammo_rockets
+  4:48 Item: 2 weapon_rocketlauncher
+  4:48 Item: 0 weapon_shotgun
+  4:51 Kill: 3 2 6: Mynx killed Mynx by MOD_ROCKET
+  4:51 Item: 1 weapon_rocketlauncher
+  4:56 Kill: 1 2 6: Ranger killed Mynx by MOD_ROCKET
+  4:56 Kill: 1 1 7: Ranger killed Ranger by MOD_ROCKET_SPLASH
+  4:59 Item: 0 item_armor_shard
+  4:59 Item: 0 item_armor_shard
+  4:59 Item: 0 item_armor_shard
+  4:59 Item: 0 item_armor_combat
+  5:00 Item: 3 weapon_rocketlauncher
+  5:01 Kill: 3 3 7: Mynx killed Mynx by MOD_ROCKET_SPLASH
+  5:01 Item: 1 weapon_rocketlauncher
+  5:03 say: Mynx: I figured I'd take care of myself, since I know you could not do it.
+  5:04 Item: 1 weapon_rocketlauncher
+  5:05 Item: 3 ammo_rockets
+  5:06 Kill: 3 1 3: Mynx killed Ranger by MOD_MACHINEGUN
+  5:07 Item: 3 weapon_rocketlauncher
+  5:07 Kill: 3 2 7: Mynx killed Mynx by MOD_ROCKET_SPLASH
+  5:09 Item: 3 ammo_bullets
+  5:11 Item: 2 weapon_rocketlauncher
+  5:14 Item: 3 item_health_large
+  5:16 Item: 1 ammo_shells
+  5:19 Item: 2 item_armor_body
+  5:19 Item: 0 item_armor_shard
+  5:19 Item: 0 item_armor_shard
+  5:19 Item: 0 item_armor_shard
+  5:22 Item: 2 weapon_rocketlauncher
+  5:25 Item: 0 weapon_rocketlauncher
+  5:26 Kill: 2 3 6: Mynx killed Mynx by MOD_ROCKET
+  5:29 say: Mynx: When I said, 'Over my dead body,' dis wasn't what I meant.
+  5:32 Item: 2 item_health_large
+  5:33 Item: 0 item_armor_shard
+  5:33 Item: 0 item_armor_shard
+  5:33 Item: 0 item_armor_shard
+  5:33 Item: 0 item_armor_combat
+  5:35 Item: 3 weapon_rocketlauncher
+  5:43 Kill: 3 1 7: Mynx killed Ranger by MOD_ROCKET_SPLASH
+  5:47 Item: 2 weapon_rocketlauncher
+  5:47 Kill: 1 2 3: Ranger killed Mynx by MOD_MACHINEGUN
+  5:48 Item: 1 weapon_rocketlauncher
+  5:48 Item: 3 item_armor_body
+  5:49 KnyteHawkk gave himself a rune: emp
+  5:52 Item: 1 weapon_rocketlauncher
+  5:53 Item: 2 weapon_rocketlauncher
+  5:53 Kill: 1 3 6: Ranger killed Mynx by MOD_ROCKET
+  5:58 Item: 1 ammo_rockets
+  5:58 Item: 0 item_armor_shard
+  5:58 Item: 0 item_armor_shard
+  5:58 Item: 0 item_armor_shard
+  6:00 Item: 3 weapon_rocketlauncher
+  6:01 KnyteHawkk gave himself a rune: emp
+  6:02 Item: 1 weapon_rocketlauncher
+  6:04 Kill: 3 1 6: Mynx killed Ranger by MOD_ROCKET
+  6:06 Item: 2 ammo_rockets
+  6:06 Item: 0 item_armor_shard
+  6:06 Item: 0 item_armor_shard
+  6:06 Item: 0 item_armor_shard
+  6:07 Item: 0 item_armor_combat
+  6:07 Item: 1 weapon_rocketlauncher
+  6:08 Kill: 2 1 6: Mynx killed Ranger by MOD_ROCKET
+  6:12 KnyteHawkk gave himself a rune: emp
+  6:12 Item: 3 weapon_rocketlauncher
+  6:12 Kill: 1 3 3: Ranger killed Mynx by MOD_MACHINEGUN
+  6:16 Item: 3 weapon_rocketlauncher
+  6:17 Item: 3 weapon_rocketlauncher
+  6:17 Item: 1 item_armor_body
+  6:17 ShutdownGame:
+  6:17 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 KnyteHawkk gave himself a rune: emp
+  0:06 Item: 0 weapon_rocketlauncher
+  0:07 Item: 0 ammo_rockets
+  0:11 ClientConnect: 1
+  0:11 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0
+  0:11 ClientBegin: 1
+  0:12 ClientConnect: 2
+  0:12 ClientUserinfoChanged: 2 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0
+  0:12 ClientBegin: 2
+  0:14 Item: 1 weapon_rocketlauncher
+  0:16 ClientConnect: 3
+  0:16 ClientUserinfoChanged: 3 n\Mynx\t\0\model\mynx\hmodel\mynx\c1\4\c2\5\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0
+  0:16 ClientBegin: 3
+  0:16 Kill: 1 2 6: Ranger killed Ranger by MOD_ROCKET
+  0:17 Item: 1 ammo_bullets
+  0:18 Item: 0 item_armor_shard
+  0:18 Item: 0 item_armor_shard
+  0:18 Item: 0 item_armor_shard
+  0:18 Item: 0 item_armor_combat
+  0:19 Item: 1 item_armor_body
+  0:20 Item: 2 weapon_rocketlauncher
+  0:21 Kill: 2 1 6: Ranger killed Ranger by MOD_ROCKET
+  0:21 Item: 0 weapon_rocketlauncher
+  0:22 Item: 3 ammo_rockets
+  0:27 Item: 2 weapon_rocketlauncher
+  0:27 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  0:28 Item: 0 item_health_large
+  0:29 ClientConnect: 4
+  0:29 ClientUserinfoChanged: 4 n\Mynx\t\0\model\mynx\hmodel\mynx\c1\4\c2\5\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0
+  0:29 ClientBegin: 4
+  0:32 Item: 4 weapon_rocketlauncher
+  0:33 KnyteHawkk gave himself a rune: emp
+  0:36 Item: 1 weapon_rocketlauncher
+  0:37 Kill: 1 3 7: Ranger killed Mynx by MOD_ROCKET_SPLASH
+  0:39 say: Mynx: Let's dance that tune again ... but this time I lead.
+  0:41 Kill: 3 4 3: Mynx killed Mynx by MOD_MACHINEGUN
+  0:43 say: Mynx: Finally, someone who knows how to handle their weapon!
+  0:43 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  0:43 Item: 3 weapon_rocketlauncher
+  0:44 Kill: 1 2 7: Ranger killed Ranger by MOD_ROCKET_SPLASH
+  0:46 KnyteHawkk gave himself a rune: emp
+  0:49 Item: 1 ammo_shells
+  0:50 Item: 1 weapon_shotgun
+  0:51 Item: 4 weapon_rocketlauncher
+  0:51 Item: 0 item_health_large
+  0:52 Item: 4 ammo_rockets
+  0:54 Item: 1 ammo_bullets
+  0:54 Item: 3 item_armor_body
+  0:56 Kill: 1 2 1: Ranger killed Ranger by MOD_SHOTGUN
+  0:56 KnyteHawkk gave himself a rune: emp
+  0:58 say: Ranger: Full on LUCK!
+  1:00 Item: 2 weapon_rocketlauncher
+  1:00 Kill: 0 4 2: KnyteHawkk killed Mynx by MOD_GAUNTLET
+  1:00 Item: 0 Rune 23
+  1:04 Item: 3 weapon_rocketlauncher
+  1:06 Item: 0 ammo_rockets
+  1:07 Item: 0 weapon_rocketlauncher
+  1:09 Kill: 3 1 7: Mynx killed Ranger by MOD_ROCKET_SPLASH
+  1:09 Item: 0 item_health_large
+  1:12 Item: 1 ammo_bullets
+  1:12 Item: 0 item_armor_shard
+  1:12 Item: 0 item_armor_shard
+  1:13 Item: 0 item_armor_shard
+  1:13 Item: 0 item_armor_combat
+  1:14 Item: 1 weapon_rocketlauncher
+  1:15 KnyteHawkk gave himself a rune: emp
+  1:15 Item: 0 weapon_rocketlauncher
+  1:15 Kill: 1 2 6: Ranger killed Ranger by MOD_ROCKET
+  1:20 KnyteHawkk gave himself a rune: emp
+  1:22 Item: 0 weapon_rocketlauncher
+  1:22 Kill: 1022 2 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  1:24 KnyteHawkk gave himself a rune: emp
+  1:26 Item: 1 weapon_shotgun
+  1:27 Kill: 1 3 1: Ranger killed Mynx by MOD_SHOTGUN
+  1:28 Kill: 4 1 2: Mynx killed Ranger by MOD_GAUNTLET
+  1:28 Item: 4 weapon_shotgun
+  1:32 Item: 4 ammo_shells
+  1:33 Item: 0 weapon_rocketlauncher
+  1:34 Kill: 2 0 2: Ranger killed KnyteHawkk by MOD_GAUNTLET
+  1:34 Item: 4 item_health_large
+  1:36 Kill: 3 1 3: Mynx killed Ranger by MOD_MACHINEGUN
+  1:36 ShutdownGame:
+  1:36 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:06 Item: 0 weapon_rocketlauncher
+  0:06 Item: 0 ammo_rockets
+  0:10 Item: 0 weapon_shotgun
+  0:10 Item: 0 ammo_shells
+  0:12 Item: 0 item_health_large
+  0:21 Item: 0 weapon_rocketlauncher
+  0:22 Item: 0 ammo_rockets
+  0:31 Item: 0 weapon_rocketlauncher
+  0:33 Item: 0 item_armor_body
+  0:36 Item: 0 weapon_rocketlauncher
+  0:40 Item: 0 weapon_rocketlauncher
+  0:59 Item: 0 item_health_mega
+  1:43 Item: 0 Rune 15
+  1:44 Item: 0 item_quad
+  1:49 Item: 0 item_armor_shard
+  1:49 Item: 0 item_armor_shard
+  1:49 Item: 0 item_armor_shard
+  1:49 Item: 0 item_armor_combat
+  1:51 Item: 0 item_health_large
+  1:53 Item: 0 weapon_rocketlauncher
+  1:53 Item: 0 ammo_rockets
+  1:55 Item: 0 item_armor_body
+  1:57 Item: 0 ammo_slugs
+  2:00 Item: 0 weapon_railgun
+  2:00 Item: 0 item_health
+  2:05 Item: 0 weapon_shotgun
+  2:14 Item: 0 weapon_railgun
+  2:16 Item: 0 item_health
+  2:26 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  2:34 KnyteHawkk gave himself a rune: disarm
+  2:46 ShutdownGame:
+  2:46 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:14 ClientConnect: 1
+  0:14 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\100\w\0\l\0\skill\12.00\tt\0\tl\0
+  0:14 ClientBegin: 1
+  0:16 Item: 0 weapon_rocketlauncher
+  0:16 Item: 1 weapon_rocketlauncher
+  0:16 Item: 0 ammo_rockets
+  0:23 KnyteHawkk gave himself a rune: emp
+  0:34 Item: 1 item_armor_body
+  0:38 Item: 0 Rune 7
+  0:39 Item: 1 weapon_rocketlauncher
+  0:40 Item: 0 ammo_rockets
+  0:41 Item: 0 weapon_rocketlauncher
+  0:44 KnyteHawkk gave himself a rune: emp
+  0:44 Item: 1 ammo_bullets
+  0:45 Item: 0 item_armor_shard
+  0:45 Item: 0 item_armor_shard
+  0:45 Item: 0 item_armor_shard
+  0:46 Item: 0 item_armor_combat
+  0:52 Item: 0 Rune 11
+  0:52 Item: 0 weapon_rocketlauncher
+  0:57 Item: 0 item_health_large
+  0:59 Item: 0 weapon_rocketlauncher
+  1:07 Kill: 0 1 2: KnyteHawkk killed Ranger by MOD_GAUNTLET
+  1:09 Item: 0 weapon_rocketlauncher
+  1:14 Item: 0 item_armor_shard
+  1:14 Item: 0 item_armor_shard
+  1:14 Item: 0 item_armor_shard
+  1:17 Item: 0 item_health_large
+  1:18 Item: 1 ammo_bullets
+  1:21 Item: 0 item_armor_shard
+  1:21 Item: 0 item_armor_shard
+  1:21 Item: 0 item_armor_shard
+  1:21 Item: 0 item_armor_combat
+  1:22 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  1:26 KnyteHawkk gave himself a rune: emp
+  1:26 Item: 1 weapon_rocketlauncher
+  1:32 Item: 0 weapon_rocketlauncher
+  1:32 Item: 0 ammo_rockets
+  1:37 Item: 0 Rune 1
+  1:44 Item: 1 item_health_large
+  1:44 Item: 0 weapon_rocketlauncher
+  1:47 Item: 0 item_armor_body
+  1:52 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  1:55 Item: 1 weapon_rocketlauncher
+  1:56 Item: 0 ammo_rockets
+  1:57 Item: 1 item_health_large
+  2:00 Item: 0 item_health_large
+  2:08 Item: 1 weapon_rocketlauncher
+  2:12 Item: 0 item_health_large
+  2:15 Kill: 1 0 6: Ranger killed KnyteHawkk by MOD_ROCKET
+  2:17 ShutdownGame:
+  2:17 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 Item: 0 weapon_rocketlauncher
+  0:04 Item: 0 ammo_rockets
+  0:09 Item: 0 weapon_rocketlauncher
+  0:16 ShutdownGame:
+  0:16 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 ShutdownGame:
+  0:01 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 ShutdownGame:
+  0:04 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 ShutdownGame:
+  0:01 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 ShutdownGame:
+  0:01 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 ShutdownGame:
+  0:01 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 ShutdownGame:
+  0:01 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 ShutdownGame:
+  0:01 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 ShutdownGame:
+  0:01 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 ShutdownGame:
+  0:01 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 ShutdownGame:
+  0:01 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 ShutdownGame:
+  0:01 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:01 ShutdownGame:
+  0:01 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:10 Item: 0 item_armor_shard
+  0:10 Item: 0 item_armor_shard
+  0:10 Item: 0 item_armor_shard
+  0:10 Item: 0 item_armor_combat
+  0:14 Item: 0 ammo_bullets
+  0:54 Item: 0 ammo_bullets
+  1:44 ShutdownGame:
+  1:44 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 Item: 0 weapon_rocketlauncher
+  0:04 Item: 0 ammo_rockets
+  0:11 Item: 0 ammo_bullets
+  0:20 Item: 0 item_armor_shard
+  0:21 Item: 0 item_armor_shard
+  0:21 Item: 0 item_armor_shard
+  0:21 Item: 0 item_armor_combat
+  0:25 Item: 0 item_health_large
+  0:38 ShutdownGame:
+  0:38 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 Item: 0 weapon_rocketlauncher
+  0:04 Item: 0 ammo_rockets
+  0:19 ShutdownGame:
+  0:19 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 ShutdownGame:
+  0:04 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 Item: 0 weapon_rocketlauncher
+  0:04 Item: 0 ammo_rockets
+  0:17 Item: 0 item_armor_shard
+  0:18 Item: 0 item_armor_shard
+  0:18 Item: 0 item_armor_shard
+  0:18 Item: 0 item_armor_combat
+  0:31 ShutdownGame:
+  0:31 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:05 Item: 0 weapon_rocketlauncher
+  0:05 Item: 0 ammo_rockets
+  0:12 Item: 0 Rune 18
+  0:17 Item: 0 ammo_bullets
+  0:17 Item: 0 Rune 5
+  0:21 Item: 0 item_armor_shard
+  0:21 Item: 0 item_armor_shard
+  0:21 Item: 0 item_armor_shard
+  0:21 Item: 0 item_armor_combat
+  0:27 Item: 0 Rune 6
+  0:32 Item: 0 Rune 19
+  0:38 ClientConnect: 1
+  0:38 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\100\w\0\l\0\skill\32.00\tt\0\tl\0
+  0:38 ClientBegin: 1
+  0:47 Item: 1 weapon_rocketlauncher
+  0:47 Item: 0 Rune 9
+  0:47 Item: 0 ammo_bullets
+  0:48 Item: 1 ammo_rockets
+  0:50 Item: 0 item_armor_shard
+  0:50 Item: 0 item_armor_shard
+  0:50 Item: 0 item_armor_shard
+  0:53 Item: 0 weapon_rocketlauncher
+  0:55 Item: 1 item_health_large
+  0:56 Item: 0 item_armor_body
+  1:03 Item: 1 ammo_bullets
+  1:04 Item: 0 Rune 10
+  1:11 Item: 0 Rune 11
+  1:14 Item: 0 weapon_rocketlauncher
+  1:15 Item: 0 Rune 12
+  1:21 Item: 1 ammo_rockets
+  1:22 Item: 1 weapon_rocketlauncher
+  1:31 Item: 0 item_armor_shard
+  1:31 Item: 0 item_armor_shard
+  1:31 Item: 0 item_armor_shard
+  1:31 Item: 0 item_armor_combat
+  1:36 Item: 1 item_armor_body
+  1:39 Item: 1 item_health_large
+  1:40 Item: 0 item_armor_shard
+  1:41 Item: 0 item_armor_shard
+  1:41 Item: 0 item_armor_shard
+  1:43 Item: 1 ammo_slugs
+  1:46 Item: 1 weapon_railgun
+  1:48 Item: 0 weapon_shotgun
+  1:48 Item: 1 item_health
+  1:48 Item: 0 ammo_shells
+  1:58 Item: 1 item_health_large
+  2:05 Item: 1 weapon_rocketlauncher
+  2:09 Item: 1 ammo_bullets
+  2:12 Item: 1 ammo_shells
+  2:15 Item: 0 item_armor_shard
+  2:16 Item: 0 item_armor_shard
+  2:16 Item: 0 item_armor_shard
+  2:16 Item: 0 item_armor_combat
+  2:19 Kill: 0 1 13: KnyteHawkk killed Ranger by MOD_BFG_SPLASH
+  2:21 Item: 0 item_health_large
+  2:21 say: Ranger: MEDIC!
+  2:23 Item: 1 ammo_rockets
+  2:24 Item: 0 item_armor_shard
+  2:25 Item: 0 item_armor_shard
+  2:25 Item: 0 item_armor_shard
+  2:25 Kill: 0 1 13: KnyteHawkk killed Ranger by MOD_BFG_SPLASH
+  2:28 Item: 0 weapon_rocketlauncher
+  2:32 Kill: 0 1 12: KnyteHawkk killed Ranger by MOD_BFG
+  2:35 Item: 0 weapon_shotgun
+  2:36 Item: 1 ammo_rockets
+  2:37 Item: 1 weapon_rocketlauncher
+  2:41 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  2:42 Item: 0 item_armor_body
+  2:44 Item: 1 weapon_rocketlauncher
+  2:50 Item: 0 item_health_mega
+  2:52 Item: 1 ammo_slugs
+  2:55 Item: 1 weapon_railgun
+  2:57 Item: 1 item_health
+  3:00 Item: 1 weapon_rocketlauncher
+  3:01 Item: 0 item_armor_shard
+  3:01 Item: 0 item_armor_shard
+  3:01 Item: 0 item_armor_shard
+  3:02 Item: 0 item_armor_combat
+  3:04 Item: 0 item_armor_shard
+  3:04 Item: 0 item_armor_shard
+  3:04 Item: 0 item_armor_shard
+  3:05 Item: 1 ammo_bullets
+  3:08 Kill: 0 1 13: KnyteHawkk killed Ranger by MOD_BFG_SPLASH
+  3:15 Item: 1 ammo_rockets
+  3:17 Item: 0 item_armor_body
+  3:18 Item: 1 weapon_rocketlauncher
+  3:21 Kill: 0 1 8: KnyteHawkk killed Ranger by MOD_PLASMA
+  3:23 say: Ranger: So your momma's apron proved to be good armor. Big deal.
+  3:25 Item: 0 weapon_rocketlauncher
+  3:25 Item: 1 weapon_rocketlauncher
+  3:26 Item: 0 weapon_rocketlauncher
+  3:29 Item: 0 item_health_large
+  3:30 Item: 1 ammo_rockets
+  3:32 Item: 0 item_armor_shard
+  3:32 Item: 0 item_armor_shard
+  3:32 Item: 0 item_armor_shard
+  3:33 Item: 0 item_armor_combat
+  3:37 Item: 0 weapon_rocketlauncher
+  3:38 Item: 0 item_health_large
+  3:39 Kill: 0 1 11: KnyteHawkk killed Ranger by MOD_LIGHTNING
+  3:40 Item: 0 weapon_rocketlauncher
+  3:40 Item: 0 Rune 23
+  3:44 Item: 1 weapon_rocketlauncher
+  3:46 Item: 1 ammo_bullets
+  3:46 Item: 0 item_armor_shard
+  3:46 Item: 0 item_armor_shard
+  3:46 Item: 0 item_armor_shard
+  3:56 Item: 1 weapon_shotgun
+  3:56 Item: 1 ammo_shells
+  3:57 Kill: 0 1 13: KnyteHawkk killed Ranger by MOD_BFG_SPLASH
+  3:58 Item: 0 weapon_shotgun
+  4:01 Item: 1 item_armor_body
+  4:01 Item: 0 item_armor_shard
+  4:01 Item: 0 item_armor_shard
+  4:01 Item: 0 item_armor_shard
+  4:04 Item: 0 item_armor_combat
+  4:07 Item: 0 ammo_rockets
+  4:09 Kill: 0 1 8: KnyteHawkk killed Ranger by MOD_PLASMA
+  4:11 Item: 0 Rune 20
+  4:13 Item: 1 weapon_rocketlauncher
+  4:30 Item: 1 item_health_large
+  4:32 Item: 1 item_armor_body
+  4:35 Item: 0 weapon_rocketlauncher
+  4:36 Item: 0 ammo_rockets
+  4:37 Item: 1 weapon_rocketlauncher
+  4:37 Item: 0 Rune 22
+  4:54 Kill: 1022 1 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  4:56 Item: 0 weapon_rocketlauncher
+  4:58 Item: 1 item_armor_body
+  5:02 Item: 0 weapon_rocketlauncher
+  5:02 Kill: 1 0 3: Ranger killed KnyteHawkk by MOD_MACHINEGUN
+  5:03 Item: 1 ammo_rockets
+  5:04 Item: 1 weapon_rocketlauncher
+  5:07 ShutdownGame:
+  5:07 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:05 KnyteHawkk gave himself a rune: disarm
+  0:10 ClientConnect: 1
+  0:10 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\90\w\0\l\0\skill\ 3.00\tt\0\tl\0
+  0:10 ClientBegin: 1
+  0:11 Item: 0 weapon_rocketlauncher
+  0:11 Item: 0 ammo_rockets
+  0:12 Item: 1 weapon_rocketlauncher
+  0:13 Item: 0 item_armor_body
+  0:14 Item: 1 ammo_rockets
+  0:19 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  0:21 Item: 0 weapon_rocketlauncher
+  0:22 Item: 1 weapon_rocketlauncher
+  0:25 Item: 0 item_health_large
+  0:28 Item: 1 weapon_rocketlauncher
+  0:43 Item: 1 item_health_large
+  0:45 Item: 0 ammo_shells
+  0:45 Item: 0 Rune 20
+  0:48 Item: 0 item_health_large
+  0:49 Item: 0 weapon_rocketlauncher
+  0:49 Item: 0 Rune 10
+  0:51 Kill: 0 1 28: KnyteHawkk killed Ranger by MOD_RUNE_VENGEANCE
+  0:54 Item: 1 ammo_bullets
+  0:55 Kill: 1022 0 19: <world> killed KnyteHawkk by MOD_FALLING
+  0:56 Item: 1 weapon_rocketlauncher
+  0:56 Item: 1 item_armor_body
+  1:07 Item: 1 ammo_rockets
+  1:09 Item: 0 ammo_rockets
+  1:09 Item: 0 weapon_rocketlauncher
+  1:14 Item: 0 ammo_shells
+  1:14 Item: 0 Rune 12
+  1:15 Item: 0 weapon_shotgun
+  1:20 Item: 1 weapon_rocketlauncher
+  1:23 Item: 1 ammo_bullets
+  1:24 Item: 0 item_quad
+  1:26 Item: 1 item_health_large
+  1:27 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  1:28 Item: 0 weapon_rocketlauncher
+  1:29 Item: 0 Rune 23
+  1:30 Item: 0 weapon_rocketlauncher
+  1:32 Kill: 0 1 7: KnyteHawkk killed Ranger by MOD_ROCKET_SPLASH
+  1:35 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  1:37 ShutdownGame:
+  1:37 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \sv_hostname\noname\sv_maxRate\0\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\g_redTeam\Stroggs\g_blueTeam\Pagans\dmflags\0\fraglimit\20\timelimit\0\sv_maxclients\8\g_maxGameClients\0\capturelimit\0\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:04 KnyteHawkk gave himself a rune: phase
+  0:06 Item: 0 weapon_rocketlauncher
+  0:13 Item: 0 item_armor_body
+  0:21 Kill: 1022 0 22: <world> killed KnyteHawkk by MOD_TRIGGER_HURT
+  0:26 KnyteHawkk gave himself a rune: phase
+  0:27 Item: 0 ammo_rockets
+  0:28 Item: 0 weapon_rocketlauncher
+  0:40 ClientConnect: 1
+  0:40 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0
+  0:40 ClientBegin: 1
+  0:42 Item: 1 weapon_rocketlauncher
+  0:46 Item: 1 item_armor_body
+  0:48 Kill: 1 0 7: Ranger killed KnyteHawkk by MOD_ROCKET_SPLASH
+  0:49 ShutdownGame:
+  0:49 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \capturelimit\0\g_maxGameClients\0\sv_maxclients\8\timelimit\0\fraglimit\20\dmflags\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\0\sv_hostname\noname\version\Q3 1.31 win-x86 Dec 11 2001\g_gametype\0\protocol\67\mapname\q3dm17\sv_privateClients\0\sv_allowAnonymous\0\sv_allowDownload\0\gamename\baseq3\g_needpass\0
+  0:00 Creating Rune Spawner
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientUserinfoChanged: 0 n\KnyteHawkk\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:00 ClientBegin: 0
+  0:05 KnyteHawkk gave himself a rune: phase
+  0:09 ClientConnect: 1
+  0:09 ClientUserinfoChanged: 1 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0
+  0:09 ClientBegin: 1
+  0:11 Item: 1 ammo_bullets
+  0:11 Item: 0 ammo_rockets
+  0:12 Item: 0 weapon_rocketlauncher
+  0:13 Item: 1 weapon_rocketlauncher
+  0:14 Item: 1 ammo_rockets
+  0:19 Kill: 1 0 7: Ranger killed KnyteHawkk by MOD_ROCKET_SPLASH
+  0:22 ClientConnect: 2
+  0:22 ClientUserinfoChanged: 2 n\Ranger\t\0\model\ranger\hmodel\ranger\c1\4\c2\5\hc\100\w\0\l\0\skill\ 5.00\tt\0\tl\0
+  0:22 ClientBegin: 2
+  0:25 KnyteHawkk gave himself a rune: phase
+  0:25 Item: 2 weapon_rocketlauncher
+  0:27 Item: 2 item_armor_body
+  0:28 Item: 1 weapon_rocketlauncher
+  0:34 Item: 1 weapon_rocketlauncher
+  0:35 Kill: 1022 2 22: <world> killed Ranger by MOD_TRIGGER_HURT
+  0:37 say: Ranger: Now that I have demonstrated how NOT to do it ...
+  0:38 Kill: 1 0 7: Ranger killed KnyteHawkk by MOD_ROCKET_SPLASH
+  0:40 Item: 2 weapon_rocketlauncher
+  0:40 ShutdownGame:
+  0:40 ------------------------------------------------------------
